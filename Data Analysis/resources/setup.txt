@@ -1,0 +1,17 @@
+ 6683  python --version
+ 6684  easy_install pip
+ 6685  sudo easy_install pip
+ 6686  pip install numpy
+ 6687  pip install gfortran
+ 6688  brew install gfortran
+ 6689  brew update
+ 6690  brew upgrade
+ 6691  brew link --overwrite --dry-run python
+ 6692  brew link --overwrite python
+ 6693  sudo vim ~/.zshrc
+ 6694  source ~/.zshrc
+ 6695  pip2 install --upgrade pip setuptools
+ 6696  pip2 install scipy
+ 6697  pip2 install matplotlib
+ 6698  pip2 install pandas
+ 6699  pip2 install seaborn

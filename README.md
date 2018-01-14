@@ -22,8 +22,8 @@ Google this for information.
 
 
 ## Resources
-http://cs231n.github.io/python-numpy-tutorial/
-https://www.jetbrains.com/pycharm/download/#section=mac
-https://www.tensorflow.org/install/install_mac
-https://conda.io/docs/user-guide/install/macos.html
-https://www.anaconda.com/download/#macos (command line installer)
+ * http://cs231n.github.io/python-numpy-tutorial/
+ * https://www.jetbrains.com/pycharm/download/#section=mac
+ * https://www.tensorflow.org/install/install_mac
+ * https://conda.io/docs/user-guide/install/macos.html
+ * https://www.anaconda.com/download/#macos (command line installer)

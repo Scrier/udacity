@@ -1,5 +1,7 @@
 #/bin/sh
 
+source ../.env
+
 if [[ $# -eq 1 ]]; then
     INPUT="../${1}"
 else
@@ -30,6 +32,6 @@ PWD=`pwd`
 
 cd fast-style-transfer
 
-~/anaconda2/bin/python evaluate.py --checkpoint $CKPT --in-path $INPUT --out-path ../output.jpg
+$PYTH_BIN/python evaluate.py --checkpoint $CKPT --in-path $INPUT --out-path ../output.jpg
 
 cd "$PWD"

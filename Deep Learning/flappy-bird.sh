@@ -1,6 +1,7 @@
 #/bin/sh
 
+source ../.env
+
 cd DeepLearningFlappyBird
 
-~/anaconda2/bin/python deep_q_network.py
-
+$PYTH_BIN/python deep_q_network.py

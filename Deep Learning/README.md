@@ -1,3 +1,6 @@
+# Numpy
+[Matrix Calculation](matrix.md)
+
 # Links
 
 ## Lesson 2 - Self Driving Cars.

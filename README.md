@@ -1,7 +1,7 @@
 # udacity
 Udacity code and project for courses I take there.
 
-[Deep Learning](Deep%Learning/README.md)
+[Deep Learning](Deep%20Learning/README.md)
 
 ## Python
 

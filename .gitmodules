@@ -4,3 +4,6 @@
 [submodule "Deep Learning/DeepLearningFlappyBird"]
 	path = Deep Learning/DeepLearningFlappyBird
 	url = https://github.com/yenchenlin/DeepLearningFlappyBird.git
+[submodule "Deep Learning/deep-learning"]
+	path = Deep Learning/deep-learning
+	url = https://github.com/udacity/deep-learning.git

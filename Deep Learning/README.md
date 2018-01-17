@@ -9,7 +9,7 @@
 
 ## Neural Networks:
 
-[Perception Algorithm](neural-networks/lesson1_part10.md) 
+[Perception Algorithm](neural-networks/lesson1/part10-perceptron.md) 
 
 # Books
  * https://www.manning.com/books/grokking-deep-learning (code: traskud17 for 40% off)

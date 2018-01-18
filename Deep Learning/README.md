@@ -1,18 +1,14 @@
-# Numpy
-[Matrix Calculation](matrix.md)
+# Deep Learning
 
 # Links
 
-## Introduction: Lesson 2 - Self Driving Cars.
- * https://en.wikipedia.org/wiki/Reinforcement_learning
- * https://selfdrivingcars.mit.edu/deeptraffic/
+[View Jupyter Notebooks](http://nbviewer.jupyter.org/)
 
-## Neural Networks:
+# Papers
 
-[Perception Algorithm](2.Neural-Networks/lesson1/part10-perceptron.md) 
+ * [Train your own image classifier with Inception in TensorFlow](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
+ 
+ 
+# Videos
 
-# Books
- * https://www.manning.com/books/grokking-deep-learning (code: traskud17 for 40% off)
- * http://neuralnetworksanddeeplearning.com/
- * http://www.deeplearningbook.org/
-
+ * [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)

@@ -1,7 +1,8 @@
 # udacity
 Udacity code and project for courses I take there.
 
-[Deep Learning](Deep%20Learning/README.md)
+* [Data Analysis](Data%Analysis/README.md)
+* [Deep Learning](Deep%20Learning/README.md)
 
 ## Python
 
@@ -24,6 +25,7 @@ Google this for information.
 
 
 ## Resources
+
  * http://cs231n.github.io/python-numpy-tutorial/
  * https://www.jetbrains.com/pycharm/download/#section=mac
  * https://www.tensorflow.org/install/install_mac

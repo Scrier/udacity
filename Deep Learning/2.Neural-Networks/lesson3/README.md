@@ -58,4 +58,4 @@
 
 ## 15. Error Functions Around the World
 
-[![Error Functions Around the World](https://img.youtube.com/vi/4AAcTECu2A/0.jpg)](https://www.youtube.com/watch?v=4AAcTECu2A)
+[![Error Functions Around the World](https://img.youtube.com/vi/34AAcTECu2A/0.jpg)](https://www.youtube.com/watch?v=34AAcTECu2A)

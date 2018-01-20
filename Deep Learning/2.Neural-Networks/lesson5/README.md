@@ -38,3 +38,6 @@
 
 [![Closed Form Solution](https://img.youtube.com/vi/G3fRVgLa5gI/0.jpg)](https://www.youtube.com/watch?v=G3fRVgLa5gI)
 
+## 24. Neural Networks Playground
+
+http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/

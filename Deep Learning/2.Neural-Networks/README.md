@@ -7,3 +7,5 @@
 [3. Training Neural Networks](lesson3/README.md)
 
 [4. Evaluation Metrics](lesson4/README.md)
+
+[5. Regression](lesson5/README.md)

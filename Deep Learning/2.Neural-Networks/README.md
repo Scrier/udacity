@@ -9,3 +9,5 @@
 [4. Evaluation Metrics](lesson4/README.md)
 
 [5. Regression](lesson5/README.md)
+
+[6. Project 1](lesson6_project1)

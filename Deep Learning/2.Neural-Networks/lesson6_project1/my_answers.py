@@ -61,7 +61,6 @@ class NeuralNetwork(object):
             X: features batch
 
         '''
-        print("forward: X",X)
         #### Implement the forward pass here ####
         ### Forward pass ###
         # TODO: Hidden layer - Replace these values with your calculations.
@@ -70,7 +69,10 @@ class NeuralNetwork(object):
 
         # TODO: Output layer - Replace these values with your calculations.
         final_inputs = np.dot(hidden_outputs, self.weights_hidden_to_output) # signals into final output layer
-        final_outputs = final_inputs # signals from final output layer
+        # The output layer has only one node and is used for the regression, the output of the node is the same 
+        # as the input of the node. That is, the activation function is  f(x)=x
+        # Reason why we won't use the activation function for input. 
+        final_outputs = final_inputs # signals from final output layer "self.activation_function(final_inputs)"
         
         return final_outputs, hidden_outputs
 
@@ -93,6 +95,10 @@ class NeuralNetwork(object):
 
         # TODO: Backpropagated error terms - Replace these values with your calculations.
         # error = 0.30001076, final_outputs = 0.09998924
+        # Same reason here as above, backpropagation is the same as the error. 
+        # You'll need the derivative of the output activation function ( f(x)=x ) for the backpropagation 
+        # implementation. If you aren't familiar with calculus, this function is equivalent to the equation  y=x . 
+        # What is the slope of that equation? That is the derivative of  f(x).
         output_error_term = error
         
         # TODO: Calculate the hidden layer's contribution to the error
@@ -144,7 +150,7 @@ class NeuralNetwork(object):
 #########################################################
 # Set your hyperparameters here
 ##########################################################
-iterations = 500
-learning_rate = 0.2
-hidden_nodes = 24
+iterations = 8600
+learning_rate = 0.4
+hidden_nodes = 15
 output_nodes = 1

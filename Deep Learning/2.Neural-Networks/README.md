@@ -10,4 +10,6 @@
 
 [5. Regression](lesson5/README.md)
 
-[6. Project 1](lesson6_project1)
+[6. Project: Predicting Bike Sharing Data](lesson6_project1/README.md)
+
+[7. Sentiment Analysis](lesson7/README.md)

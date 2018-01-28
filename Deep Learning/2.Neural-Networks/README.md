@@ -13,3 +13,5 @@
 [6. Project: Predicting Bike Sharing Data](lesson6_project1/README.md)
 
 [7. Sentiment Analysis](lesson7/README.md)
+
+[8. Keras](lesson8/README.md)

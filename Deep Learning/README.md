@@ -16,3 +16,8 @@
 # Videos
 
  * [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+
+# Links
+
+ * [Igor Barbosa Paper - Learning from generated data](https://arxiv.org/pdf/1701.03153.pdf)
+ * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)

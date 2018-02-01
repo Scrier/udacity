@@ -4,6 +4,8 @@
 
 [2. Neural Networks](2.Neural-Networks/README.md)
 
+[3. Convulutional Networks](3.Convulutional-Networks/REAME.md)
+
 # Links
 
 [View Jupyter Notebooks](http://nbviewer.jupyter.org/)

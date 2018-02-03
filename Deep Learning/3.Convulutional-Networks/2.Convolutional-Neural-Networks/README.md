@@ -25,3 +25,44 @@
   * Check out [this research](https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html) that uses CNNs to localize breast cancer.
   * CNNs are used to [save endangered species](https://blogs.nvidia.com/blog/2016/11/04/saving-endangered-species/?adbsc=social_20170303_70517416)!
   * An app called [FaceApp](http://www.digitaltrends.com/photography/faceapp-neural-net-image-editing/) uses a CNN to make you smile in a picture or change genders.
+  
+## 5. MLPs for Image Classification
+
+ * Check out the [first research paper](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) to propose dropout as a technique for overfitting.
+ * Here's the Keras [documentation](https://keras.io/layers/core/#flatten) for the Flatten layer.
+ * If you'd like more information on activation functions, check out this [website](http://cs231n.github.io/neural-networks-1/#actfun).
+
+## 6. Categorical Cross-Entropy
+
+ * If you'd like more details about fully connected layers in Keras, check out the [documentation](https://keras.io/layers/core/) for the Dense layer. You can change the way the weights are initialized through supplying values for the kernel_initializer and bias_initializer parameters. Note that the default values are 'glorot_uniform', and 'zeros', respectively. You can read more about how each of these initializers work in the corresponding Keras documentation.
+ * There are many different [loss functions](https://keras.io/losses/) in Keras. For this lesson, we will only use categorical_crossentropy.
+ * Check out the [list of available optimizers](https://keras.io/optimizers/) in Keras. The optimizer is specified when you compile the model (in Step 7 of the notebook).
+  * 'sgd' : SGD
+  * 'rmsprop' : RMSprop
+  * 'adagrad' : Adagrad
+  * 'adadelta' : Adadelta
+  * 'adam' : Adam
+  * 'adamax' : Adamax
+  * 'nadam' : Nadam
+  * 'tfoptimizer' : TFOptimizer
+
+```python
+# compile the model
+model.compile(loss='categorical_crossentropy', optimizer='rmsprop', 
+              metrics=['accuracy'])
+```
+
+## 7. Model Validation in Keras
+
+There are many callbacks (such as ModelCheckpoint) that you can use to monitor your model during the training process. If you'd like, check out the [details](https://keras.io/callbacks/#modelcheckpoint) here. You're encouraged to begin with learning more about the EarlyStopping callback. If you'd like to see another code example of ModelCheckpoint, check out [this blog](http://machinelearningmastery.com/check-point-deep-learning-models-keras/).
+```python
+from keras.callbacks import ModelCheckpoint   
+
+# train the model
+checkpointer = ModelCheckpoint(filepath='mnist.model.best.hdf5', 
+                               verbose=1, save_best_only=True)
+hist = model.fit(X_train, y_train, batch_size=128, epochs=10,
+          validation_split=0.2, callbacks=[checkpointer],
+          verbose=1, shuffle=True)
+```
+

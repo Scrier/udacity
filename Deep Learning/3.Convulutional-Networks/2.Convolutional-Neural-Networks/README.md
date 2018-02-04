@@ -66,3 +66,133 @@ hist = model.fit(X_train, y_train, batch_size=128, epochs=10,
           verbose=1, shuffle=True)
 ```
 
+## 14. Convulutional Layers in Keras
+
+![http://iamaaditya.github.io/2016/03/one-by-one-convolution/](https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/conv_arithmetic/full_padding_no_strides_transposed.gif)
+
+To create a convolutional layer in Keras, you must first import the necessary module:
+
+```python
+from keras.layers import Conv2D
+```
+
+Then, you can create a convolutional layer by using the following format:
+
+```python
+Conv2D(filters, kernel_size, strides, padding, activation='relu', input_shape)
+```
+
+### Arguments
+
+You must pass the following arguments:
+
+ * *filters* - The number of filters.
+ * *kernel_size* - Number specifying both the height and width of the (square) convolution window.
+ 
+There are some additional, optional arguments that you might like to tune:
+
+ * *strides* - The stride of the convolution. If you don't specify anything, `strides` is set to `1`.
+ * *padding* - One of `'valid'` or `'same'`. If you don't specify anything, `padding` is set to `'valid'`.
+ * *activation* - Typically `'relu'`. If you don't specify anything, no activation is applied. You are **strongly encouraged** to add a ReLU activation function to **every** convolutional layer in your networks.
+ 
+**NOTE**: It is possible to represent both `kernel_size` and `strides` as either a number or a tuple.
+
+When using your convolutional layer as the first layer (appearing after the input layer) in a model, you must provide an additional `input_shape` argument:
+
+ * *input_shape* - Tuple specifying the height, width, and depth (in that order) of the input.
+ 
+**NOTE**: Do not include the `input_shape` argument if the convolutional layer is not the first layer in your network.
+
+There are many other tunable arguments that you can set to change the behavior of your convolutional layers. To read more about these, we recommend persuing the official [documentation](https://keras.io/layers/convolutional/).
+
+### Example #1
+Say I'm constructing a CNN, and my input layer accepts grayscale images that are 200 by 200 pixels (corresponding to a 3D array with height 200, width 200, and depth 1). Then, say I'd like the next layer to be a convolutional layer with 16 filters, each with a width and height of 2. When performing the convolution, I'd like the filter to jump two pixels at a time. I also don't want the filter to extend outside of the image boundaries; in other words, I don't want to pad the image with zeros. Then, to construct this convolutional layer, I would use the following line of code:
+
+```python
+Conv2D(filters=16, kernel_size=2, strides=2, activation='relu', input_shape=(200, 200, 1))
+```
+
+### Example #2
+Say I'd like the next layer in my CNN to be a convolutional layer that takes the layer constructed in Example 1 as input. Say I'd like my new layer to have 32 filters, each with a height and width of 3. When performing the convolution, I'd like the filter to jump 1 pixel at a time. I want the convolutional layer to see all regions of the previous layer, and so I don't mind if the filter hangs over the edge of the previous layer when it's performing the convolution. Then, to construct this convolutional layer, I would use the following line of code:
+
+```python
+Conv2D(filters=32, kernel_size=3, padding='same', activation='relu')
+```
+
+### Example #3
+If you look up code online, it is also common to see convolutional layers in Keras in this format:
+
+```python
+Conv2D(64, (2,2), activation='relu')
+```
+
+In this case, there are 64 filters, each with a size of 2x2, and the layer has a ReLU activation function. The other arguments in the layer use the default values, so the convolution uses a stride of 1, and the padding has been set to 'valid'.
+
+## 15. Dimensionality
+
+![http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/a044de29-c60f-47d8-a82d-aae7b8f24732#)
+
+Just as with neural networks, we create a CNN in Keras by first creating a `Sequential` model.
+
+We add layers to the network by using the `.add()` method.
+
+Copy and paste the following code into a Python executable named `conv-dims.py`:
+
+```python
+from keras.models import Sequential
+from keras.layers import Conv2D
+
+model = Sequential()
+model.add(Conv2D(filters=16, kernel_size=2, strides=2, padding='valid', 
+    activation='relu', input_shape=(200, 200, 1)))
+model.summary()
+```
+
+We will not train this CNN; instead, we'll use the executable to study how the dimensionality of the convolutional layer changes, as a function of the supplied arguments.
+
+Run `python path/to/conv-dims.py` and look at the output. It should appear as follows:
+
+![conv-dims.png](images/conv-dims.png)
+
+Do the dimensions of the convolutional layer line up with your expectations?
+
+Feel free to change the values assigned to the arguments (`filters`, `kernel_size`, etc) in your `conv-dims.py` file.
+
+Take note of how the **number of parameters** in the convolutional layer changes. This corresponds to the value under `Param #` in the printed output. In the figure above, the convolutional layer has `80` parameters.
+
+Also notice how the **shape** of the convolutional layer changes. This corresponds to the value under `Output Shape` in the printed output. In the figure above, `None` corresponds to the batch size, and the convolutional layer has a height of *100*, width of *100*, and depth of *16*.
+
+Formula: Number of Parameters in a Convolutional Layer
+The number of parameters in a convolutional layer depends on the supplied values of filters, kernel_size, and input_shape. Let's define a few variables:
+
+ * K - the number of filters in the convolutional layer
+ * F - the height and width of the convolutional filters
+ * D_in - the depth of the previous layer
+
+Notice that K = filters, and F = kernel_size. Likewise, D_in is the last value in the input_shape tuple.
+
+Since there are F*F*D_in weights per filter, and the convolutional layer is composed of K filters, the total number of weights in the convolutional layer is K*F*F*D_in. Since there is one bias term per filter, the convolutional layer has K biases. Thus, the number of parameters in the convolutional layer is given by K*F*F*D_in + K.
+
+Formula: Shape of a Convolutional Layer
+The shape of a convolutional layer depends on the supplied values of kernel_size, input_shape, padding, and stride. Let's define a few variables:
+
+ * K - the number of filters in the convolutional layer
+ * F - the height and width of the convolutional filters
+ * S - the stride of the convolution
+ * H_in - the height of the previous layer
+ * W_in - the width of the previous layer
+
+Notice that K = filters, F = kernel_size, and S = stride. Likewise, H_in and W_in are the first and second value of the input_shape tuple, respectively.
+
+The depth of the convolutional layer will always equal the number of filters K.
+
+If padding = 'same', then the spatial dimensions of the convolutional layer are the following:
+
+ * **height** = ceil(float(H_in) / float(S))
+ * **width** = ceil(float(W_in) / float(S))
+
+If padding = 'valid', then the spatial dimensions of the convolutional layer are the following:
+
+ * **height** = ceil(float(H_in - F + 1) / float(S))
+ * **width** = ceil(float(W_in - F + 1) / float(S))
+

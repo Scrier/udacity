@@ -196,3 +196,22 @@ If padding = 'valid', then the spatial dimensions of the convolutional layer are
  * **height** = ceil(float(H_in - F + 1) / float(S))
  * **width** = ceil(float(W_in - F + 1) / float(S))
 
+## 16. Image Augmentation in Keras
+
+If you have not yet launched a GPU-enabled server with AWS, you are strongly encouraged to do so before running the notebook from this video. While it is possible to train the notebook on your CPU, an AWS GPU instance will be much faster.
+
+The Jupyter notebook described in the video can be accessed from the `aind2-cnn` GitHub repository. Navigate to the **cifar10-augmentation/** folder and open **cifar10_augmentation.ipynb**.
+
+**Note on** `steps_per_epoch`
+Recall that `fit_generator` took many parameters, including
+
+```python
+steps_per_epoch = x_train.shape[0] / batch_size
+```
+
+where `x_train.shape[0]` corresponds to the number of unique samples in the training dataset `x_train`. By setting `steps_per_epoch` to this value, we ensure that the model sees `x_train.shape[0]` augmented images in each epoch.
+
+### Optional Resources
+ * Read this [great blog post](http://machinelearningmastery.com/image-augmentation-deep-learning-keras/) that visualizes augmentations of the MNIST dataset.
+ * Check out this [detailed implementation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) that uses augmentation to boost performance on a Kaggle dataset.
+ * Read the Keras [documentation](https://keras.io/preprocessing/image/) on the ImageDataGenerator class.

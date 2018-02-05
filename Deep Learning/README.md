@@ -23,3 +23,6 @@
 
  * [Igor Barbosa Paper - Learning from generated data](https://arxiv.org/pdf/1701.03153.pdf)
  * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
+ * [Crestle - Online GPU service](https://www.crestle.com/)
+ * [Paperspace - Online GPU service](https://www.paperspace.com/)
+ 

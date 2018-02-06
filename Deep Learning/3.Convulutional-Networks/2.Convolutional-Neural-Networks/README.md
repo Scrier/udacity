@@ -320,3 +320,18 @@ The network begins with a sequence of three convolutional layers, followed by ma
  * Always add a ReLU activation function to the `Conv2D` layers in your CNN. With the exception of the final layer in the network, `Dense` layers should also have a ReLU activation function.
  * When constructing a network for classification, the final layer in the network should be a `Dense` layer with a softmax activation function. The number of nodes in the final layer should equal the total number of classes in the dataset.
  * Have fun! If you start to feel discouraged, we recommend that you check out [Andrej Karpathy's tumblr](https://lossfunctions.tumblr.com/) with user-submitted loss functions, corresponding to models that gave their owners some trouble. Recall that the loss is supposed to decrease during training. These plots show very different behavior :).
+
+## 21. CNNs in Keras: Practical Example
+
+If you have not yet launched a GPU-enabled server with AWS, you are strongly encouraged to do so before running the notebooks from this video. While it is possible to train the notebooks on your CPU, an AWS GPU instance will be much faster.
+
+The Jupyter notebooks described in the video can be accessed from the `aind2-cnn` GitHub [repository](https://github.com/udacity/aind2-cnn). Navigate to the **cifar10-classification/** folder and open **cifar10_mlp.ipynb** and **cifar10_cnn.ipynb**.
+
+### A Note on the Validation Set
+
+[Earlier in the lesson](https://github.com/udacity/aind2-cnn/blob/master/mnist-mlp/mnist_mlp.ipynb), we trained a neural network with validation by setting the `validation_split` argument in `model.fit` to 0.2. This removed the final 20% of the training data, which was instead used as validation data. In the notebook for this video, instead of having Keras split off the validation set for us, we hard-code the split ourselves.
+
+### Optional Resources
+
+ * Here's a [cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) for specifying neural networks (including CNNs!) in Keras.
+ * Check out the CIFAR-10 Competition's [winning architecture](http://blog.kaggle.com/2015/01/02/cifar-10-competition-winners-interviews-with-dr-ben-graham-phil-culliton-zygmunt-zajac/)!

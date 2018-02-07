@@ -1,12 +1,12 @@
 [submodule "Deep Learning/fast-style-transfer"]
-	path = Deep Learning/fast-style-transfer
+	path = Deep.Learning/fast-style-transfer
 	url = git@github.com:lengstrom/fast-style-transfer.git
 [submodule "Deep Learning/DeepLearningFlappyBird"]
-	path = Deep Learning/DeepLearningFlappyBird
+	path = Deep.Learning/DeepLearningFlappyBird
 	url = https://github.com/yenchenlin/DeepLearningFlappyBird.git
 [submodule "Deep Learning/deep-learning"]
-	path = Deep Learning/deep-learning
+	path = Deep.Learning/deep-learning
 	url = https://github.com/udacity/deep-learning.git
 [submodule "Deep Learning/aind2-cnn"]
-	path = Deep Learning/aind2-cnn
+	path = Deep.Learning/aind2-cnn
 	url = https://github.com/udacity/aind2-cnn.git

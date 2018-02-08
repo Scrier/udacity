@@ -1,8 +1,8 @@
 # udacity
 Udacity code and project for courses I take there.
 
-* [Data Analysis](Data%Analysis/README.md)
-* [Deep Learning](Deep%20Learning/README.md)
+* [Data Analysis](Data.Analysis/README.md)
+* [Deep Learning](Deep.Learning/README.md)
 
 ## Python
 

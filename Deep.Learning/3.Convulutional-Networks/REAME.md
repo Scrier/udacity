@@ -5,3 +5,5 @@
 [2. Convolutional Neural Networks](2.Convolutional-Neural-Networks/README.md)
 
 [3. CNNs in Tensorflow](3.CNNs-in-Tensorflow/README.md)
+
+[4. Weight Initialization](4.Weight-Initialization/README.md)

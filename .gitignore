@@ -102,3 +102,9 @@ ENV/
 
 # mac specific
 .DS_Store
+
+# Large Files
+*.csv
+*.hdf5
+*.pickle
+

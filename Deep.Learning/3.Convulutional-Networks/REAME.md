@@ -7,3 +7,5 @@
 [3. CNNs in Tensorflow](3.CNNs-in-Tensorflow/README.md)
 
 [4. Weight Initialization](4.Weight-Initialization/README.md)
+
+[5. Autoencoders](5.Autoencoders/README.md)

@@ -9,3 +9,5 @@
 [4. Weight Initialization](4.Weight-Initialization/README.md)
 
 [5. Autoencoders](5.Autoencoders/README.md)
+
+[6. Transfer Learning in Tensorflow](6.Transfer-Learning-in-Tensorflow/README.md)

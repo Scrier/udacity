@@ -4,7 +4,7 @@
 
 [2. Neural Networks](2.Neural-Networks/README.md)
 
-[3. Convulutional Networks](3.Convulutional-Networks/REAME.md)
+[3. Convulutional Networks](3.Convulutional-Networks/README.md)
 
 # Links
 

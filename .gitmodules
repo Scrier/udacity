@@ -10,3 +10,6 @@
 [submodule "Deep Learning/aind2-cnn"]
 	path = Deep.Learning/aind2-cnn
 	url = https://github.com/udacity/aind2-cnn.git
+[submodule "Deep.Learning/3.Convulutional-Networks/6.Transfer-Learning-in-Tensorflow/tensorflow_vgg"]
+	path = Deep.Learning/3.Convulutional-Networks/6.Transfer-Learning-in-Tensorflow/tensorflow_vgg
+	url = https://github.com/machrisaa/tensorflow-vgg.git

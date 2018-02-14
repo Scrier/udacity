@@ -107,4 +107,6 @@ ENV/
 *.csv
 *.hdf5
 *.pickle
+*.tar.gz
+*.bin
 

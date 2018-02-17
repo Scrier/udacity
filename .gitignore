@@ -109,4 +109,6 @@ ENV/
 *.pickle
 *.tar.gz
 *.bin
+*.zip
+*.npz
 

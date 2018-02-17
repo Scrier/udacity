@@ -11,3 +11,6 @@
 [5. Autoencoders](5.Autoencoders/README.md)
 
 [6. Transfer Learning in Tensorflow](6.Transfer-Learning-in-Tensorflow/README.md)
+
+[7. Dog Breed Classifier](7.Dog-Breed-Classifier/README.md)
+

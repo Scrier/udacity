@@ -13,3 +13,6 @@
 [submodule "Deep.Learning/3.Convulutional-Networks/6.Transfer-Learning-in-Tensorflow/tensorflow_vgg"]
 	path = Deep.Learning/3.Convulutional-Networks/6.Transfer-Learning-in-Tensorflow/tensorflow_vgg
 	url = https://github.com/machrisaa/tensorflow-vgg.git
+[submodule "Deep.Learning/3.Convulutional-Networks/7.Dog-Breed-Classifier/dog-project"]
+	path = Deep.Learning/3.Convulutional-Networks/7.Dog-Breed-Classifier/dog-project
+	url = https://github.com/udacity/dog-project

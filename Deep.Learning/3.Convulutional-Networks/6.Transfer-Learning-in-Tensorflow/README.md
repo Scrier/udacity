@@ -1,5 +1,8 @@
 # Transfer Learning in Tensorflow
 
+ * [Transfer Learning Notebook](Transfer_Learning.ipynb)
+ * [Transfer Learning Solution Notebook](Transfer_Learning_Solution.ipynb)
+
 ## 1. Transfer Learning Intro 
 
 In this lesson you'll be learning about transfer learning. In practice, you won't typically be training your own huge networks. There are multiple models out there that have been trained for weeks on huge datasets like [ImageNet](http://www.image-net.org/). In this lesson, you'll be using one of these pretrained networks, [VGGNet](http://www.robots.ox.ac.uk/~vgg/research/very_deep/), to classify images of flowers.

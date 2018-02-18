@@ -1,5 +1,8 @@
 # CNNs in Tensorflow
 
+ * [Convolutional Layers](part2-convolutional-layers.py)
+ * [Max Pooling Layers](part5-max-pooling-layers.py)
+
 ## 1. Concolutional Layers
 
 The image below is an example of a [convolution](https://en.wikipedia.org/wiki/Convolution) with a 3x3 filter and a stride of 1.

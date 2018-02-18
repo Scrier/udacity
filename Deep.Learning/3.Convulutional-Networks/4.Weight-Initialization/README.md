@@ -1,5 +1,7 @@
 # Weight Initialization
 
+ * [Weight initialization](weight_initialization.ipynb)
+
 New techniques for dealing with weights are discovered every few years. We've provided the most popular papers in this field over the years.
 
  * [Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)

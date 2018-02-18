@@ -1,5 +1,14 @@
 # Convulutional Neural Networks
 
+ * [Bottleneck Features Notebook](bottleneck_features.ipynb)
+ * [Cifar 10 Augmentation Notebook](cifar10_augmentation.ipynb)
+ * [Cifar 10 CNN Notebook](cifar10_cnn.ipynb)
+ * [Cifar 10 MLP Notebook](cifar10_mlp.ipynb)
+ * [Convolutional Dimensions](conv-dims.py)
+ * [Convolutional Visualization Notebook](conv_visualization.ipynb)
+ * [MNIST MLP Notebook](mnist_mlp.ipynb)
+ * [Transfer Learning Notebook](transfer_learning.ipynb)
+
 ## 2. Applications of CNN's
 
  * Read about the [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) model.

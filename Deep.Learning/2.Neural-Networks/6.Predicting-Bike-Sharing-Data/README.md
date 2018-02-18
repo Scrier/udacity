@@ -1,5 +1,7 @@
 # Predicting Bike Sharing Data
 
+ * [Your First Neural Network](Your_first_neural_network.ipynb)
+
 ## Training the Network - Wrong Formula
 
 | Iterations | Learning Rate | Hidden Nodes | Loss Graph | Predictions |

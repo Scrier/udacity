@@ -1,5 +1,11 @@
 # Tensorflow
 
+ * [Intro to Tensorflow Notebook](intro_to_tensorflow.ipynb)
+ * [Softmax Example](part7-softmax.py)
+ * [Cross Entropy Example](part8-cross-entropy.py)
+ * [Relus Example](part14-tf-relus.py)
+ * [Dropout Example](part18-dropout.py)
+
 ## Part 11 NotMNIST in tensorflow - training
 
 | epochs | learning rate | output |

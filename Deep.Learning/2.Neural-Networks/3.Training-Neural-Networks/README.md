@@ -1,5 +1,7 @@
 # Training Neural Networks
 
+ * [Regularization](part5_regularization.py)
+
 ## 1. Training Optimization
 
 [![Training Optimization](https://img.youtube.com/vi/UiGKhx9pUYc/0.jpg)](https://www.youtube.com/watch?v=UiGKhx9pUYc)

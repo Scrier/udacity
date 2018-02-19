@@ -2,6 +2,7 @@
 
 [1. Welcome](1.Welcome/README.md)
 [2. Applying Deep Learning](2.Applying-Deep-Learning/README.md)
+[3. Anaconda](3.Anaconda/README.md)
 
 ## Lesson 2: Applying Deep Learning
 

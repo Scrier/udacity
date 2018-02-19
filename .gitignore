@@ -108,6 +108,7 @@ ENV/
 *.hdf5
 *.pickle
 *.tar.gz
+*.gz
 *.bin
 *.zip
 *.npz

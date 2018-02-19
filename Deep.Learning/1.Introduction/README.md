@@ -1,5 +1,7 @@
 # Introductions
 
+[1. Welcome](1.Welcome/README.md)
+
 ## Lesson 2: Applying Deep Learning
 
 ### 2: Style Transfer

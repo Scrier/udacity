@@ -16,10 +16,14 @@
 
 source ./qnap-shared.sh
 
-GetGitModulePaths ex "--exclude=\"" "\""
+GetLargeFileExtensions INCLUDE "--include=\"" "\""
 
-echo $ex
+ARGS="-zarv -e ssh --prune-empty-dirs"
+SERVER="admin@scrier.myqnapcloud.com"
+TARGET="/share/rsync/udacity"
+SOURCE="."
 
-GetLargeFileExtensions in "--include=\"" "\""
+COMMAND="rsync $ARGS --include=\"*/\" $INCLUDE --exclude=\"*\" $SOURCE $SERVER:$TARGET"
 
-echo $in
+echo $COMMAND
+echo "rsync -zarv -e ssh --prune-empty-dirs --delete --include=\"*/\" --include=\"*.csv\" --include=\"*.hdf5\" --include=\"*.pickle\" --include=\"*.tar.gz\" --include=\"*.bin\" --include=\"*.npz\" --include=\"*.zip\" --exclude=\"*\" . admin@scrier.myqnapcloud.com:/share/rsync/udacity"

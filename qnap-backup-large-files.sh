@@ -1,29 +1,18 @@
 #/bin/sh
 
-#if [ "$HOSTNAME" = gpu02 ]; then
-#  rsync -zarv --prune-empty-dirs --delete --include="*/" --include="*.csv" --include="*.hdf5" --include="*.pickle" \
-#    --include="*.tar.gz" --include="*.bin" --include="*.tar.gz" --include="*.npz" --include="*.zip" --exclude="*" . \
-#    ../large-items/
-#else
-#  rsync -zarv --prune-empty-dirs --delete --include="*/" --include="*.csv" --include="*.hdf5" --include="*.pickle" \
-#    --include="*.tar.gz" --include="*.bin" --include="*.npz" --include="*.zip" --exclude="*" . \
-#    andreas@gpu02:./large-items/
-#fi
-
-#rsync -zarv -e ssh --prune-empty-dirs --delete --include="*/" --include="*.csv" --include="*.hdf5" --include="*.pickle"
-# --include="*.tar.gz" --include="*.bin" --include="*.npz" --include="*.zip" --exclude="*" .
-# admin@scrier.myqnapcloud.com:/share/rsync/udacity
-
-source ./qnap-shared.sh
+source ./.qnap-bash.sh
 
 GetLargeFileExtensions INCLUDE "--include=\"" "\""
+GetGitModulePaths EXCLUDE "--exclude=\"" "\""
 
-ARGS="-zarv -e ssh --prune-empty-dirs"
+ARGS="-zarv --prune-empty-dirs --delete"
+FIXED_EXCLUDES="--exclude=\".git/\" --exclude=\".idea/\""
 SERVER="admin@scrier.myqnapcloud.com"
 TARGET="/share/rsync/udacity"
 SOURCE="."
 
-COMMAND="rsync $ARGS --include=\"*/\" $INCLUDE --exclude=\"*\" $SOURCE $SERVER:$TARGET"
+COMMAND="rsync $ARGS $FIXED_EXCLUDES --include=\"*/\" $INCLUDE --exclude=\"*\" $SOURCE $SERVER:$TARGET"
 
 echo $COMMAND
-echo "rsync -zarv -e ssh --prune-empty-dirs --delete --include=\"*/\" --include=\"*.csv\" --include=\"*.hdf5\" --include=\"*.pickle\" --include=\"*.tar.gz\" --include=\"*.bin\" --include=\"*.npz\" --include=\"*.zip\" --exclude=\"*\" . admin@scrier.myqnapcloud.com:/share/rsync/udacity"
+
+eval $COMMAND

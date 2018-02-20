@@ -347,4 +347,65 @@ Read more about `pdb` in [the documentation](https://docs.python.org/3/library/p
 There are a whole bunch of other magic commands, I just touched on a few of the ones you'll use the most often. To 
 learn more about them, [here's the list](http://ipython.readthedocs.io/en/stable/interactive/magics.html) of all available magic commands.
 
+## 9.Converting notebooks
 
+Notebooks are just big [JSON](http://www.json.org/) files with the extension `.ipynb`.
+
+![Notebook file opened in a text editor shows JSON data](readme/part9-1.png)
+
+Since notebooks are JSON, it is simple to convert them to other formats. Jupyter comes with a utility called `nbconvert` 
+for converting to HTML, Markdown, slideshows, etc.
+
+For example, to convert a notebook to an HTML file, in your terminal use
+
+```bash
+jupyter nbconvert --to html notebook.ipynb
+```
+
+Converting to HTML is useful for sharing your notebooks with others who aren't using notebooks. Markdown is great for 
+including a notebook in blogs and other text editors that accept Markdown formatting.
+
+![part9-2](readme/part9-2.png)
+
+As always, learn more about `nbconvert` from the [documentation](https://nbconvert.readthedocs.io/en/latest/usage.html).
+
+## 10.Creating a slideshow
+
+Create slideshows from notebooks is one of my favorite features. You can see an [example of a slideshow here](http://nbviewer.jupyter.org/format/slides/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb#/) introducing 
+Pandas for working with data.
+
+The slides are created in notebooks like normal, but you'll need to designate which cells are slides and the type of slide the cell will be. In the menu bar, click View > Cell Toolbar > Slideshow to bring up the slide cell menu on each cell.
+
+![Turning on Slideshow toolbars for cells](readme/part10-1.png)
+
+This will show a menu dropdown on each cell that lets you choose how the cell shows up in the slideshow.
+
+![Choose slide type](readme/part10-2.png)
+
+**Slides** are full slides that you move through left to right. **Sub-slides** show up in the slideshow by pressing up 
+or down. **Fragments** are hidden at first, then appear with a button press. You can skip cells in the slideshow with 
+**Skip** and **Notes** leaves the cell as speaker notes.
+
+### Running the slideshow
+
+To create the slideshow from the notebook file, you'll need to use `nbconvert`:
+
+    jupyter nbconvert notebook.ipynb --to slides
+
+This just converts the notebook to the necessary files for the slideshow, but you need to serve it with an HTTP server 
+to actually see the presentation.
+
+To convert it and immediately see it, use
+
+    jupyter nbconvert notebook.ipynb --to slides --post serve
+    
+This will open up the slideshow in your browser so you can present it.
+
+## 11.Finishing up
+
+You've made it to the end of this short course on tools in the Python data science workflow. Making good use of 
+Anaconda and Jupyter Notebooks will increase your productivity and general well-being. There is a lot to learn to get 
+the most out of these, Markdown and LaTeX for instance, but after a bit you'll be wondering why data analysis is done 
+any other way.
+
+Again, congratulations and good luck!

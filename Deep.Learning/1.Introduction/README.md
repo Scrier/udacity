@@ -4,6 +4,7 @@
 [2. Applying Deep Learning](2.Applying-Deep-Learning/README.md)
 [3. Anaconda](3.Anaconda/README.md)
 [4. Jupyter Notebooks](4.Jupyter-Notebooks/README.md)
+[5. Matrix Math and NumPy Refresher](5.Matrix-Math-and-NumPy-Refresher/README.md)
 
 ## Lesson 2: Applying Deep Learning
 

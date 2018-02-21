@@ -112,4 +112,4 @@ ENV/
 *.bin
 *.zip
 *.npz
-
+*.mp4

@@ -2,7 +2,7 @@
  
  ## 1. Welcome to the Deep Learning Nanodegree Program
  
- ![Video](readme/1%20-%2001%20Welcome%20To%20The%20Deep%20Learning%20Program.mp4)
+[![Video](readme/video1-placeholder.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F1.Welcome%2Freadme&filename=1%20-%2001%20Welcome%20To%20The%20Deep%20Learning%20Program.mp4&fid=0MZqBkd&open=normal)
  
 ## 2. Projects you will build 
 

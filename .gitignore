@@ -103,6 +103,9 @@ ENV/
 # mac specific
 .DS_Store
 
+# Skip script created files.
+.skipsync
+
 # Large Files
 *.csv
 *.hdf5

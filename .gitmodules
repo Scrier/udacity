@@ -16,3 +16,6 @@
 [submodule "Deep.Learning/3.Convulutional-Networks/7.Dog-Breed-Classifier/dog-project"]
 	path = Deep.Learning/3.Convulutional-Networks/7.Dog-Breed-Classifier/dog-project
 	url = https://github.com/udacity/dog-project
+[submodule "Deep.Learning/3.Convulutional-Networks/8.Deep-Learning-for-Cancer-Detection/dermatologist-ai"]
+	path = Deep.Learning/3.Convulutional-Networks/8.Deep-Learning-for-Cancer-Detection/dermatologist-ai
+	url = https://github.com/udacity/dermatologist-ai

@@ -14,3 +14,5 @@
 
 [7. Dog Breed Classifier](7.Dog-Breed-Classifier/README.md)
 
+[8. Deep Learning for Cancer Detection](8.Deep-Learning-for-Cancer-Detection/README.md)
+

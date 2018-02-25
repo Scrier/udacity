@@ -195,3 +195,128 @@ The next few videos will focus on the backpropagation process, or what we also c
 use of the chain rule.
 
 ## 8. Backpropagation Theory
+
+Since partial derivatives are the key mathematical concept used in backpropagation, it's important that you feel 
+confident in your ability to calculate them. Once you know how to calculate basic derivatives, calculating partial 
+derivatives is easy to understand.
+
+For more information on partial derivatives use the following [link](http://www.columbia.edu/itc/sipa/math/calc_rules_multivar.html)
+
+For calculation purposes in future quizzes of the lesson, you can use the following link as a reference for [common 
+derivatives](http://tutorial.math.lamar.edu/pdf/Common_Derivatives_Integrals.pdf).
+
+In the **backpropagation** process we minimize the network error slightly with each iteration, by adjusting the weights. 
+The following video will help you understand the mathematical process we use for computing these adjustments.
+
+[![Video](readme/video9.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=9_-_08_Backpropagation_Theory_V6_Final.mp4&fid=0MZqBkd&open=normal)]
+
+If we look at an arbitrary layer k, we can define the amount by which we change the weights from neuron i to neuron j 
+stemming from layer k as: ![part8-1m](readme/part8-1m.png).
+
+The superscript (_k_) indicates that the weight connects layer _k_ to layer _k+1_.
+
+Therefore, the weight update rule for that neuron can be expressed as:
+
+![Equation 4](readme/part8-2m.png)
+
+The updated value ![part8-3m](readme/part8-3m.png) is calculated through the use of the gradient calculation, in the 
+following way:
+
+![part8-4m](readme/part8-4m.png) where _α_ is a small positive number called the Learning Rate.
+
+From these derivation we can easily see that the weight updates are calculated the by the following equation:
+
+![Equation 6](readme/part8-5m.png)
+
+Since many weights determine the network’s output, we can use a vector of the partial derivatives (defined by the Greek letter Nabla \nabla∇) of the network error - each with respect to a different weight.
+
+![Equation 7](readme/part8-6m.png)
+
+Here you can find other good resources for understanding and tuning the Learning Rate:
+
+ * [resource 1](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
+ * [resource 2](http://cs231n.github.io/neural-networks-3/#loss)
+ 
+The following video is given as a refresher to **overfitting** . You have already seen this concept in the Training Neural 
+Networks lesson. Feel free to skip it and jump right into the next video.
+
+[![Video](readme/video10.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=10_-_13_Overfitting_Intro_V4_Final.mp4&fid=0MZqBkd&open=normal)]
+
+## 9. Backpropagatiojn - Example (Part A)
+
+We will now continue with an example focusing on the backpropagation process, and consider a network having two inputs 
+_[x1, x2]_, three neurons in a single hidden layer _[h1, h2, h3]_ and a single output _y_.
+
+![part9-1](readme/part9-1.png)
+
+The weight matrices to update are _W1_ from the input to the hidden layer, and _W2_ from the hidden layer to the 
+output. Notice that in our case _W2_ is a vector, not a matrix, as we only have one output.
+
+[![Video](readme/video11.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=11_-_10_Backpropagation_Example_A_V3_Final.mp4&fid=0MZqBkd&open=normal)]
+
+The chain of thought in the weight updating process is as follows:
+
+To update the weights, we need the network error. To find the network error, we need the network output, and to find 
+the network output we need the value of the hidden layer, vector _h_.
+
+![Equation 8](readme/part9-2m.png)
+
+Each element of vector _h_ is calculated by a simple linear combination of the input vector with its corresponding 
+weight matrix _W1_, followed by an activation function.
+
+![Equation 9](readme/part9-2.png)
+
+We now need to find the network's output, _y_. _y_ is calculated in a similar way by using a linear combination of the 
+vector _h_ with its corresponding elements of the weight vector _W2_.
+
+![Equation 10](readme/part9-3.png)
+
+After computing the output, we can finally find the network error.
+
+As a reminder, the two Error functions most commonly used are the [Mean Squared Error (MSE)](https://en.wikipedia.org/wiki/Mean_squared_error) 
+(usually used in regression problems) and the [cross entropy](https://www.ics.uci.edu/~pjsadows/notes.pdf) (often used in classification problems).
+
+In this example, we use a variation of the MSE:
+
+![part9-3m](readme/part9-3m.png)
+
+where _d_ is the desired output and _y_ is the calculated one. Notice that **y** and **d** are not vectors in this 
+case, as we have a single output.
+
+The error is their squared difference, ![part9-4m](readme/part9-4m.png), and is also called the network's **Loss 
+Function**. We are dividing the error term by 2 to simplify notation, as will become clear soon.
+
+The aim of the backpropagation process is to minimize the error, which in our case is the Loss Function. To do that we 
+need to calculate its partial derivative with respect to all of the weights.
+
+Since we just found the output y, we can now minimize the error by finding the updated values ![part9-5m](readme/part9-5m.png). 
+The superscript k indicates that we need to update each and every layer k.
+
+As we noted before, the weight update value ![part9-5m](readme/part9-5m.png) is calculated with the use of the gradient 
+the following way:
+
+![part9-6m](readme/part9-6m.png)
+
+Therefore:
+
+![part9-7m](readme/part9-7m.png)
+
+which can be simplified as:
+
+![Equation 11](readme/part9-8m.png)
+
+(Notice that _d_ is a constant value, so it’s partial derivative is simply a zero)
+
+This partial derivative of the output with respect to each weight, defines the gradient and is often denoted by the 
+Greek letter _δ_.
+
+![Equation 12](readme/part9-4.png)
+
+We will find all the elements of the gradient using the chain rule.
+
+If you are feeling confident with the **chain rule** and understand how to apply it, skip the next video and continue 
+with our example. Otherwise, give Luis a few minutes of your time as he takes you through the process!
+
+[![Video](readme/video12.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=12_-_Regra_da_cadeia.mp4&fid=0MZqBkd&open=normal)]
+
+

@@ -6,6 +6,8 @@
 
 [3. Convulutional Networks](3.Convulutional-Networks/README.md)
 
+[4. Recurrent Networks](4.Recurrent-Networks/README.md)
+
 # Links
 
 [View Jupyter Notebooks](http://nbviewer.jupyter.org/)

@@ -17,7 +17,7 @@ current output.
 
 How did the theory behind RNN evolve? Where were we a few years ago and where are we now?
 
-[![Video](readme/video3.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=3_-_02_RNN_History_V4_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=3_-_02_RNN_History_V4_Final.mp4&fid=0MZqBkd&open=normal)
 
 As mentioned in this video, RNNs have a key flaw, as capturing relationships that span more than 8 or 10 steps back is 
 practically impossible. This flaw stems from the "**vanishing gradient**" problem in which the contribution of information 
@@ -53,7 +53,7 @@ the following [blog](https://deeplearning4j.org/lstm.html). Focus on the overvie
 
 The world's leading tech companies are all using RNNs, particularly LSTMs, in their applications. Let's take a look at a few.
 
-[![Video](readme/video4.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=4_-_03_RNN_Applications_V3_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=4_-_03_RNN_Applications_V3_Final.mp4&fid=0MZqBkd&open=normal)
 
 There are so many interesting applications, let's look at a few more!
 
@@ -77,11 +77,11 @@ lesson.
 
 The following couple of videos will give you a brief overview of the **Feedforward Neural Network (FFNN)**.
 
-[![Video](readme/video5.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=5_-_04_RNN_FFNN_Reminder_A_V7_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=5_-_04_RNN_FFNN_Reminder_A_V7_Final.mp4&fid=0MZqBkd&open=normal)
 
 OK, you can take a small break now. We will continue with FFNN when you come back!
 
-[![Video](readme/video6.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=6_-_05_RNN_FFNN_Reminder_B_V6_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=6_-_05_RNN_FFNN_Reminder_B_V6_Final.mp4&fid=0MZqBkd&open=normal)
 
 As mentioned before, when working with neural networks we have 2 primary phases:
 
@@ -137,7 +137,7 @@ than a single neuron.
 
 Our first video will help you understand the first step- **Calculating the value of the hidden states**.
 
-[![Video](readme/video7.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=7_-_06_FeedForward_A_V7_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video7.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=7_-_06_FeedForward_A_V7_Final.mp4&fid=0MZqBkd&open=normal)
 
 As you saw in the video above, vector h' of the hidden layer will be calculated by multiplying the input vector with 
 the weight matrix W1 the following way:
@@ -168,7 +168,7 @@ More information on the activation functions and how to use them can be found [h
 
 This next video will help you understand the second step- **Calculating the values of the Outputs**.
 
-[![Video](readme/video8.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=8_-_07_FeedForward_B_V3.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video8.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=8_-_07_FeedForward_B_V3.mp4&fid=0MZqBkd&open=normal)
 
 As you've seen in the video above, the process of calculating the output vector is mathematically similar to that of 
 calculating the vector of the hidden layer. We use, again, a vector by matrix multiplication, which can be followed by 
@@ -208,7 +208,7 @@ derivatives](http://tutorial.math.lamar.edu/pdf/Common_Derivatives_Integrals.pdf
 In the **backpropagation** process we minimize the network error slightly with each iteration, by adjusting the weights. 
 The following video will help you understand the mathematical process we use for computing these adjustments.
 
-[![Video](readme/video9.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=9_-_08_Backpropagation_Theory_V6_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video9.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=9_-_08_Backpropagation_Theory_V6_Final.mp4&fid=0MZqBkd&open=normal)
 
 If we look at an arbitrary layer k, we can define the amount by which we change the weights from neuron i to neuron j 
 stemming from layer k as: ![part8-1m](readme/part8-1m.png).
@@ -240,7 +240,7 @@ Here you can find other good resources for understanding and tuning the Learning
 The following video is given as a refresher to **overfitting** . You have already seen this concept in the Training Neural 
 Networks lesson. Feel free to skip it and jump right into the next video.
 
-[![Video](readme/video10.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=10_-_13_Overfitting_Intro_V4_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video10.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=10_-_13_Overfitting_Intro_V4_Final.mp4&fid=0MZqBkd&open=normal)
 
 ## 9. Backpropagatiojn - Example (Part A)
 
@@ -252,7 +252,7 @@ _[x1, x2]_, three neurons in a single hidden layer _[h1, h2, h3]_ and a single o
 The weight matrices to update are _W1_ from the input to the hidden layer, and _W2_ from the hidden layer to the 
 output. Notice that in our case _W2_ is a vector, not a matrix, as we only have one output.
 
-[![Video](readme/video11.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=11_-_10_Backpropagation_Example_A_V3_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video11.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=11_-_10_Backpropagation_Example_A_V3_Final.mp4&fid=0MZqBkd&open=normal)
 
 The chain of thought in the weight updating process is as follows:
 
@@ -317,14 +317,14 @@ We will find all the elements of the gradient using the chain rule.
 If you are feeling confident with the **chain rule** and understand how to apply it, skip the next video and continue 
 with our example. Otherwise, give Luis a few minutes of your time as he takes you through the process!
 
-[![Video](readme/video12.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=12_-_Regra_da_cadeia.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video12.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=12_-_Regra_da_cadeia.mp4&fid=0MZqBkd&open=normal)
 
 ## 10. Backpropagatiojn - Example (Part B)
 
 Now that we understand the chain rule, we can continue with our **backpropagation** example, where we will calculate 
 the gradient
 
-[![Video](readme/video13.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=13_-_12_Backpropagation_Example_B_V6_Final.mp4&fid=0MZqBkd&open=normal)]
+[![Video](readme/video13.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=13_-_12_Backpropagation_Example_B_V6_Final.mp4&fid=0MZqBkd&open=normal)
 
 <object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-10.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
     <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-10.pdf&openfolder=normal&ep=">
@@ -332,3 +332,159 @@ the gradient
     </embed>
 </object>
 
+## 11. Backpropagation Quiz
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-11.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-11.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-11.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 12. RNN (Part A)
+
+We are finally ready to talk about Recurrent Neural Networks (or RNNs), where we will be opening the doors to new 
+content!
+
+[![Video](readme/video15.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=14_-_14_RNN_A_V4_Final.mp4&fid=0MZqBkd&open=normal)
+
+RNNs are based on the same principles as those behind FFNNs, which is why we spent so much time reminding ourselves of 
+the feedforward and backpropagation steps that are used in the training phase.
+
+There are two main differences between FFNNs and RNNs. The Recurrent Neural Network uses:
+
+ * **sequences** as inputs in the training phase, and
+ * **memory** elements
+ 
+Memory is defined as the output of hidden layer neurons, which will serve as additional input to the network during 
+next training step.
+
+The basic three layer neural network with feedback that serve as memory inputs is called the **Elman Network** and is 
+depicted in the following picture:
+
+![Elman Network, source: Wikipedia](readme/part12-1.png)
+
+As mentioned in the History concept, here is the original [Elman Network](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract) 
+publication from 1990. This link is provided here as it's a significant milestone in the world on RNNs. To simplify 
+things a bit, you can take a look at the following [additional info](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks).
+
+Let's continue now to the next video with more information about RNNs.
+
+## 13. RNN (Part B)
+
+[![Video](readme/video16.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=15_-_16_RNN_B_V4_Final.mp4&fid=0MZqBkd&open=normal)
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-13.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-13.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-13.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-13.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-13.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-13.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 14. RNN- Unfolded Model
+
+The next video will focus on the **unfolded model** as we try to further understand it.
+
+[![Video](readme/video17.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=16_-_17_RNN_Unfolded_V3_Final.mp4&fid=0MZqBkd&open=normal)
+
+## 15. Unfolded Model Quiz
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-15.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-15.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-15.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 16. RNN- Example
+
+In this example we will illustrate how RNNs can be helpful in detecting sequences. When detecting a sequence, the 
+system has to remember what the previous inputs were, so it makes sense to use a recurrent network.
+
+If you are unfamiliar with the term sequence detection, the idea is to see if a specific pattern of inputs has entered 
+the system. In our example the pattern will be the word U,D,A,C,I,T,Y.
+
+[![Video](readme/video18.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=17_-_18_RNN_Example_V5_Final.mp4&fid=0MZqBkd&open=normal)
+
+## 17. Backpropagation Through Time (Part A)
+
+We are now ready to understand how to train the RNN.
+
+When we train RNNs we also use backpropagation, but with a conceptual change. The process is similar to that in the 
+FFNN, with the exception that we need to consider previous time steps, as the system has memory. This process is called 
+**Backpropagation Through Time (BPTT)** and will be the topic of the next three videos.
+
+ * As always, don't forget to take notes.
+
+In the following videos we will use the Loss Function for our error. The Loss Function is the square of the difference 
+between the desired and the calculated outputs. There are variations to the Loss Function, for example, factoring it 
+with a scalar. In the backpropagation example we used a factoring scalar of 1/2 for calculation convenience.
+
+As described previously, the two most commonly used are the [Mean Squared Error (MSE)](https://en.wikipedia.org/wiki/Mean_squared_error) (usually used in regression 
+problems) and the [cross entropy](https://www.ics.uci.edu/~pjsadows/notes.pdf) (usually used in classification problems).
+
+Here, we are using a variation of the MSE.
+
+[![Video](readme/video19.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=18_-_19_RNN_BPTT_A_V6_Final.mp4&fid=0MZqBkd&open=normal)
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-17.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-17.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-17.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-17.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-17.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-17.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 18. Backpropagation Through Time (Part B)
+
+We will now unfold the model. You will see that unfolding the model in time is very helpful in visualizing the number 
+of steps (translated into multiplication) needed in the Backpropagation Through Time process. These multiplications 
+stem from the chain rule and are easily visualized using this model.
+
+In this video we willl understand how to use Backpropagation Through Time (BPTT) when adjusting two weight matrices:
+
+ * _Wy_ - the weight matrix connecting the state the output
+ * _Ws_ - the weight matrix connecting one state to the next state
+
+[![Video](readme/video20.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=19_-_20_RNN_BPTT_B_V5_Final.mp4&fid=0MZqBkd&open=normal)
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-18.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-18.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-18.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-18.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-18.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-18.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 19. Backpropagation Through Time (Part C)
+
+Last step! Adjusting _Wx_, the weight matrix connecting the input to the state.
+
+If you took on the previous challenge of deriving the math by yourself first, sit back, fasten your seat belts and 
+compare our notes to yours! Don't worry if you made mistakes, we all do. Your mistakes will help you learn what to 
+avoid next time.
+
+[![Video](readme/video21.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=20_-_21_RNN_BPTT_C_V7_Final.mp4&fid=0MZqBkd&open=normal)
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-19.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-19.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-19.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 20. BPTT Quiz 1
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-20.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-20.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-20.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 21. BPTT Quiz 2
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-21.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-21.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-21.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-21.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-21.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-21.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 22. BPTT Quiz 3
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-22.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-22.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-22.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>

@@ -319,4 +319,16 @@ with our example. Otherwise, give Luis a few minutes of your time as he takes yo
 
 [![Video](readme/video12.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=12_-_Regra_da_cadeia.mp4&fid=0MZqBkd&open=normal)]
 
+## 10. Backpropagatiojn - Example (Part B)
+
+Now that we understand the chain rule, we can continue with our **backpropagation** example, where we will calculate 
+the gradient
+
+[![Video](readme/video13.png](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=13_-_12_Backpropagation_Example_B_V6_Final.mp4&fid=0MZqBkd&open=normal)]
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-10.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-10.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-10.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
 

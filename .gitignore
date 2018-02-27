@@ -116,3 +116,4 @@ ENV/
 *.zip
 *.npz
 *.mp4
+*.pdf

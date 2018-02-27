@@ -488,3 +488,62 @@ avoid next time.
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-22.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
+
+## 23. Some more math
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-23.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-23.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-23.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-23.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-23.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-23.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 24. RNN Summary
+
+lets summarize what we have seen so far:
+
+[![Video](readme/video22.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=21_-_RNN_Summary.mp4&fid=0MZqBkd&open=normal)
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-24.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-24.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-24.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-24.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-1-24.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=part4-1-24.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 25. From RNN to LSTM
+
+Before we take a close look at the **Long Short-Term Memory (LSTM)** cell, let's take a look at the following video:
+
+[![Video](readme/video23.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F1.Recurrent-Neural-Networks%2Freadme&filename=22_-_23_From_RNNs_To_LSTMs_V4_Final.mp4&fid=0MZqBkd&open=normal)
+
+**Long Short-Term Memory Cells**, ([LSTM](http://www.bioinf.jku.at/publications/older/2604.pdf)) give a solution to the 
+vanishing gradient problem, by helping us apply networks that have temporal dependencies. They were proposed in 
+1997 by [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter) and [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
+
+If we take a close look at the RNN neuron, we can see that we have simple linear combinations (with or without the use 
+of an activation function). We can also see that we have a single addition.
+
+Zooming in on the neuron, we can graphically see this in the following configuration:
+
+![Closeup Of The RNN Neuron](readme/part25-1.png)
+
+The **LSTM** cell is a bit more complicated. If we zoom in on the cell, we can see that the mathematical configuration is 
+the following:
+
+![Closeup Of the LSTM Cell](readme/part25-2.png)
+
+The LSTM cell allows a recurrent system to learn over many time steps without the fear of losing information due to the 
+vanishing gradient problem. It is fully differentiable, therefore gives us the option of easily using backpropagation 
+when updating the weights.
+
+In our next set of videos Luis will help you understand LSTMs further.
+
+## 26. Wrap Up
+
+![part26-1](readme/part26-1.png)
+
+In this lesson we reviewed the FFNN and its training process. We dove into RNNs, understanding the motivation behind 
+them, when they are used, and how are they designed. We also learned how to train them using BPTT. We reviewed current 
+applications, such as machine translation, and gave intuition to why so many other applications use RNNs, and in 
+particular LSTMs.
+
+Next, Luis will guide you through the _LSTM_ architecture.

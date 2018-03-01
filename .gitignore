@@ -121,4 +121,5 @@ ENV/
 *.index
 *.meta
 text8
+*.txt
 

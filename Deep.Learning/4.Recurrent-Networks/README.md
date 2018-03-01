@@ -7,3 +7,5 @@
 [3. Implementation of RNN and LSTM](3.Implementation-of-RNN-and-LSTM/README.md)
 
 [4. Hyperparameters](4.Hyperparameters/README.md)
+
+[5. Embeddings and Word2vec](5.Embeddings-and-Word2vec/README.md)

@@ -146,3 +146,25 @@ Le
 | Question Answering | LSTM | 2 | 500 | -- | 300 | -- | [pdf](http://www.aclweb.org/anthology/P15-2116) |
 | Text Summarization | GRU | -- | 200 | Source: 119K, Target: 68K | 100 | 0.001 | [pdf](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) |
 
+## 9. Quiz: RNN Hyperparameters
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-4-9.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=part4-4-9.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-4-9.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=part4-4-9.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part4-4-9.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=part4-4-9.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 10. Sources & References
+
+If you want to learn more about hyperparameters, these are some great resources on the topic:
+
+ * [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) by Yoshua Bengio
+ * [Deep Learning book - chapter 11.4: Selecting Hyperparameters](http://www.deeplearningbook.org/contents/guidelines.html) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+ * [Neural Networks and Deep Learning book - Chapter 3: How to choose a neural network's hyper-parameters](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters)? by Michael Nielsen
+ * [Efficient BackProp (pdf)](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun
+
+More specialized sources:
+
+ * [How to Generate a Good Word Embedding](https://arxiv.org/abs/1507.05523)? by Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao
+ * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) by Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas
+ * [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson, Li Fei-Fei

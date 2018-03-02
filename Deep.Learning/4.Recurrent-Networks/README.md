@@ -9,3 +9,5 @@
 [4. Hyperparameters](4.Hyperparameters/README.md)
 
 [5. Embeddings and Word2vec](5.Embeddings-and-Word2vec/README.md)
+
+[6. Sentiment Prediction RNN](6.Sentiment-Prediction-RNN/README.md)

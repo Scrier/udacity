@@ -11,3 +11,5 @@
 [5. Embeddings and Word2vec](5.Embeddings-and-Word2vec/README.md)
 
 [6. Sentiment Prediction RNN](6.Sentiment-Prediction-RNN/README.md)
+
+[7. Generate TV Scripts](7.Generate-TV-Scripts/README.md)

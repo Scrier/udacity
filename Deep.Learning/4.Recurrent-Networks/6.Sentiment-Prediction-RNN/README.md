@@ -27,4 +27,22 @@ and the reviews [here](https://github.com/udacity/deep-learning/blob/master/sent
 
 [![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F6.Sentiment-Prediction-RNN%2Freadme&filename=1_-_Sentiment_Prediction.mp4&fid=0MZqBkd&open=normal)
 
+## 3. Data Preprocessing
 
+[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F6.Sentiment-Prediction-RNN%2Freadme&filename=2_-_Data_Perprocessing.mp4&fid=0MZqBkd&open=normal)
+
+## 4. Creating Test Sets
+
+[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F6.Sentiment-Prediction-RNN%2Freadme&filename=3_-_Creating_Testing_Sets.mp4&fid=0MZqBkd&open=normal)
+
+## 5. Building the RNN
+
+[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F6.Sentiment-Prediction-RNN%2Freadme&filename=4_-_Building_The_RNN_1.mp4&fid=0MZqBkd&open=normal)
+
+## 6. Training the Network
+
+[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F6.Sentiment-Prediction-RNN%2Freadme&filename=5_-_Training_The_Network.mp4&fid=0MZqBkd&open=normal)
+
+## 7. Solutions
+
+[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F6.Sentiment-Prediction-RNN%2Freadme&filename=6_-_Sentiment_RNN_2.mp4&fid=0MZqBkd&open=normal)

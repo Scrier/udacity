@@ -8,6 +8,8 @@
 
 [4. Recurrent Networks](4.Recurrent-Networks/README.md)
 
+[5. Generative Adversial Networks](5.Generative-Adversial-Networks/README.md)
+
 # Links
 
 [View Jupyter Notebooks](http://nbviewer.jupyter.org/)

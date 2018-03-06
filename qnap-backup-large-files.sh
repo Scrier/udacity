@@ -22,7 +22,7 @@ source ./.qnap-bash.sh
 GetLargeFileExtensions INCLUDE "--include=\"" "\""
 GetGitModulePaths EXCLUDE "--exclude=\"" "\""
 
-ARGS="$DRY_RUN-zarv --prune-empty-dirs --delete"
+ARGS="$DRY_RUN-zarv --prune-empty-dirs"
 FIXED_EXCLUDES="--exclude=\".git/\" --exclude=\".idea/\""
 SERVER="admin@scrier.myqnapcloud.com"
 TARGET="/share/rsync/udacity"

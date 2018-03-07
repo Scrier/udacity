@@ -122,4 +122,5 @@ ENV/
 *.meta
 text8
 *.txt
+*.pkl
 

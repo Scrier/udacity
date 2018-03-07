@@ -39,3 +39,25 @@ You'll find three notebooks:
  * `Batch_Normalization_Lesson.ipynb` - A notebook showing you how batch normalization works
  * `Batch_Normalization_Exercises.ipynb` - Exercises for you to implement batch normalization
  * `Batch_Normalization_Solutions.ipynb` - Solutions to those exercises
+
+## 4. DCGAN Implementation
+
+We've prepared some notebooks for you to work through where you'll implement a DCGAN on the [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/) 
+(SVHN) dataset. I made a short video of generated images while the GAN is being trained. If you get everything in your 
+implementation right, it should look a lot like [this](https://youtu.be/TjGs2fQvCDU).
+
+As usual, you can find the notebooks on our [GitHub repository](https://github.com/udacity/deep-learning) in the 
+`dcgan-svhn` folder. If you have already cloned the repo, do a `git pull` to get the new files. Otherwise, clone the 
+repository:
+
+```bash
+git clone https://github.com/udacity/deep-learning.git
+```
+
+Or, you can get the notebooks [here](https://github.com/udacity/deep-learning/tree/master/dcgan-svhn).
+
+## 5. DCGAN and the Generator
+
+[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=2_-_DCGAN_And_The_Generator.mp4&fid=0MZqBkd&open=normal)
+
+

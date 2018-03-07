@@ -60,4 +60,22 @@ Or, you can get the notebooks [here](https://github.com/udacity/deep-learning/tr
 
 [![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=2_-_DCGAN_And_The_Generator.mp4&fid=0MZqBkd&open=normal)
 
+## 6. Generator Solution
 
+[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=3_-_Generator_Solution.mp4&fid=0MZqBkd&open=normal)
+
+## 7. Discriminator
+
+[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=4_-_Discriminator.mp4&fid=0MZqBkd&open=normal)
+
+## 8. Discriminator Solution
+
+[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=5_-_Discriminator_Solution.mp4&fid=0MZqBkd&open=normal)
+
+## 9. Building and Training the Network
+
+[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=6_-_Building_And_Training_The_Network.mp4&fid=0MZqBkd&open=normal)
+
+## 10. Hyperparameters Solution
+
+[![Video](readme/video7.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F2.Deep-Convolutional-Gan%2Freadme&filename=7_-_Hyperparameters_Solution.mp4&fid=0MZqBkd&open=normal)

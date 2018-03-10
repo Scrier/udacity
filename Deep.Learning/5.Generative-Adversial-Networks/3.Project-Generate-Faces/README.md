@@ -31,3 +31,13 @@ This way you can stay up to date with any changes we make by pulling the changes
  1. Package the "dlnd_face_generation.ipynb", "helper.py", "problem_unittests.py", and the HTML file into a zip 
  archive, or push the files from your GitHub repo.
  1. Hit Submit Project below!
+ 
+ ### Results
+ 
+| alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
+| ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------ |
+| 0.2   | 128        | 100   | 0.0005        | 0.5    | ![n0](readme/number0.png) | ![c0](readme/celeb0.png) |
+| 0.1   | 128        | 100   | 0.0001        | 0.5    | ![n1](readme/number1.png) | ![c1](readme/celeb1.png) |
+| 0.05  | 128        | 100   | 0.00005       | 0.5    | ![n2](readme/number2.png) | ![c2](readme/celeb2.png) |
+| 0.05  | 128        | 100   | 0.00005       | 0.8    | ![n3](readme/number3.png) | ![c3](readme/celeb3.png) |
+| 0.05  | 128        | 100   | 0.00001       | 0.8    | ![n4](readme/number4.png) | ![c4](readme/celeb4.png) |

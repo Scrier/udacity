@@ -34,10 +34,17 @@ This way you can stay up to date with any changes we make by pulling the changes
  
  ### Results
  
-| alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
-| ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------ |
-| 0.2   | 128        | 100   | 0.0005        | 0.5    | ![n0](readme/number0.png) | ![c0](readme/celeb0.png) |
-| 0.1   | 128        | 100   | 0.0001        | 0.5    | ![n1](readme/number1.png) | ![c1](readme/celeb1.png) |
-| 0.05  | 128        | 100   | 0.00005       | 0.5    | ![n2](readme/number2.png) | ![c2](readme/celeb2.png) |
-| 0.05  | 128        | 100   | 0.00005       | 0.8    | ![n3](readme/number3.png) | ![c3](readme/celeb3.png) |
-| 0.05  | 128        | 100   | 0.00001       | 0.8    | ![n4](readme/number4.png) | ![c4](readme/celeb4.png) |
+| gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
+| -------- | --------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------ |
+| 1        | 1         | 0.2   | 128        | 100   | 0.0005        | 0.5    | ![n0](readme/number0.png) | ![c0](readme/celeb0.png) |
+| 1        | 1         | 0.1   | 128        | 100   | 0.0001        | 0.5    | ![n1](readme/number1.png) | ![c1](readme/celeb1.png) |
+| 1        | 1         | 0.05  | 128        | 100   | 0.00005       | 0.5    | ![n2](readme/number2.png) | ![c2](readme/celeb2.png) |
+| 1        | 1         | 0.05  | 128        | 100   | 0.00005       | 0.8    | ![n3](readme/number3.png) | ![c3](readme/celeb3.png) |
+| 1        | 1         | 0.05  | 128        | 100   | 0.00001       | 0.8    | ![n4](readme/number4.png) | ![c4](readme/celeb4.png) |
+| 1        | 1         | 0.05  | 128        | 100   | 0.00001       | 0.5    | ![n5](readme/number5.png) | ![c5](readme/celeb5.png) |
+| 1        | 1         | 0.05  | 128        | 200   | 0.00005       | 0.5    | ![n6](readme/number6.png) | ![c6](readme/celeb6.png) |
+| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![n7](readme/number7.png) | ![c7](readme/celeb7.png) |
+| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.9    | ![n8](readme/number8.png) | ![c8](readme/celeb8.png) |
+| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.7    | ![n9](readme/number9.png) | ![c9](readme/celeb9.png) |
+| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.3    | ![n10](readme/number10.png) | ![c10](readme/celeb10.png) |
+| 2        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![n11](readme/number11.png) | ![c11](readme/celeb10.png) |

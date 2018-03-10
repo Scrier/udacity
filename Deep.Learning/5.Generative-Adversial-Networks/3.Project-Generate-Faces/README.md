@@ -47,4 +47,12 @@ This way you can stay up to date with any changes we make by pulling the changes
 | 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.9    | ![n8](readme/number8.png) | ![c8](readme/celeb8.png) |
 | 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.7    | ![n9](readme/number9.png) | ![c9](readme/celeb9.png) |
 | 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.3    | ![n10](readme/number10.png) | ![c10](readme/celeb10.png) |
-| 2        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![n11](readme/number11.png) | ![c11](readme/celeb10.png) |
+| 2        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![n11](readme/number11.png) | ![c11](readme/celeb11.png) |
+| 2        | 2         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![n12](readme/number12.png) | ![c12](readme/celeb12.png) |
+| 2        | 2         | 0.05  | 256        | 400   | 0.0001        | 0.5    | ![n13](readme/number13.png) | ![c13](readme/celeb13.png) |
+| 2        | 2         | 0.05  | 128        | 400   | 0.0001        | 0.5    | ![n14](readme/number14.png) | ![c14](readme/celeb14.png) |
+| 2        | 2         | 0.05  | 128        | 400   | 0.00001       | 0.5    | ![n15](readme/number15.png) | ![c15](readme/celeb15.png) |
+| 3        | 2         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![n16](readme/number16.png) | ![c16](readme/celeb16.png) |
+| 3        | 2         | 0.05  | 128        | 400   | 0.0005        | 0.8    | ![n17](readme/number17.png) | ![c17](readme/celeb17.png) |
+| 3        | 2         | 0.05  | 128        | 400   | 0.0005        | 0.2    | ![n18](readme/number18.png) | ![c18](readme/celeb18.png) |
+| 3        | 2         | 0.05  | 128        | 400   | 0.0001        | 0.5    | ![n19](readme/number19.png) | ![c19](readme/celeb19.png) |

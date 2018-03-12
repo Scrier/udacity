@@ -34,55 +34,55 @@ This way you can stay up to date with any changes we make by pulling the changes
  
  ### Results
  
-| gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
-| -------- | --------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------ |
-| 1        | 1         | 0.2   | 128        | 100   | 0.0005        | 0.5    | ![](readme/number0.png) | ![](readme/celeb0.png) |
-| 1        | 1         | 0.1   | 128        | 100   | 0.0001        | 0.5    | ![](readme/number1.png) | ![](readme/celeb1.png) |
-| 1        | 1         | 0.05  | 128        | 100   | 0.00005       | 0.5    | ![](readme/number2.png) | ![](readme/celeb2.png) |
-| 1        | 1         | 0.05  | 128        | 100   | 0.00005       | 0.8    | ![](readme/number3.png) | ![](readme/celeb3.png) |
-| 1        | 1         | 0.05  | 128        | 100   | 0.00001       | 0.8    | ![](readme/number4.png) | ![](readme/celeb4.png) |
-| 1        | 1         | 0.05  | 128        | 100   | 0.00001       | 0.5    | ![](readme/number5.png) | ![](readme/celeb5.png) |
-| 1        | 1         | 0.05  | 128        | 200   | 0.00005       | 0.5    | ![](readme/number6.png) | ![](readme/celeb6.png) |
-| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![](readme/number7.png) | ![](readme/celeb7.png) |
-| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.9    | ![](readme/number8.png) | ![](readme/celeb8.png) |
-| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.7    | ![](readme/number9.png) | ![](readme/celeb9.png) |
-| 1        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.3    | ![](readme/number10.png) | ![](readme/celeb10.png) |
-| 2        | 1         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![](readme/number11.png) | ![](readme/celeb11.png) |
-| 2        | 2         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![](readme/number12.png) | ![](readme/celeb12.png) |
-| 2        | 2         | 0.05  | 256        | 400   | 0.0001        | 0.5    | ![](readme/number13.png) | ![](readme/celeb13.png) |
-| 2        | 2         | 0.05  | 128        | 400   | 0.0001        | 0.5    | ![](readme/number14.png) | ![](readme/celeb14.png) |
-| 2        | 2         | 0.05  | 128        | 400   | 0.00001       | 0.5    | ![](readme/number15.png) | ![](readme/celeb15.png) |
-| 3        | 2         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![](readme/number16.png) | ![](readme/celeb16.png) |
-| 3        | 2         | 0.05  | 128        | 400   | 0.0005        | 0.8    | ![](readme/number17.png) | ![](readme/celeb17.png) |
-| 3        | 2         | 0.05  | 128        | 400   | 0.0005        | 0.2    | ![](readme/number18.png) | ![](readme/celeb18.png) |
-| 3        | 2         | 0.05  | 128        | 400   | 0.0001        | 0.5    | ![](readme/number19.png) | ![](readme/celeb19.png) |
-| 4        | 2         | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![](readme/number20.png) | ![](readme/celeb20.png) |
+gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output
+-------- | --------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------
+1 | 1 | 0.2 | 128 | 100 | 0.0005 | 0.5 | ![](readme/number0.jpg) | ![](readme/celeb0.jpg)
+1 | 1 | 0.1 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number1.jpg) | ![](readme/celeb1.jpg)
+1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.5 | ![](readme/number2.jpg) | ![](readme/celeb2.jpg)
+1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.8 | ![](readme/number3.jpg) | ![](readme/celeb3.jpg)
+1 | 1 | 0.05 | 128 | 100 | 0.00001 | 0.8 | ![](readme/number4.jpg) | ![](readme/celeb4.jpg)
+1 | 1 | 0.05 | 128 | 100 | 0.00001 | 0.5 | ![](readme/number5.jpg) | ![](readme/celeb5.jpg)
+1 | 1 | 0.05 | 128 | 200 | 0.00005 | 0.5 | ![](readme/number6.jpg) | ![](readme/celeb6.jpg)
+1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number7.jpg) | ![](readme/celeb7.jpg)
+1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.9 | ![](readme/number8.jpg) | ![](readme/celeb8.jpg)
+1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.7 | ![](readme/number9.jpg) | ![](readme/celeb9.jpg)
+1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.3 | ![](readme/number10.jpg) | ![](readme/celeb10.jpg)
+2 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number11.jpg) | ![](readme/celeb11.jpg)
+2 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number12.jpg) | ![](readme/celeb12.jpg)
+2 | 2 | 0.05 | 256 | 400 | 0.0001 | 0.5 | ![](readme/number13.jpg) | ![](readme/celeb13.jpg)
+2 | 2 | 0.05 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number14.jpg) | ![](readme/celeb14.jpg)
+2 | 2 | 0.05 | 128 | 400 | 0.00001 | 0.5 | ![](readme/number15.jpg) | ![](readme/celeb15.jpg)
+3 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number16.jpg) | ![](readme/celeb16.jpg)
+3 | 2 | 0.05 | 128 | 400 | 0.0005 | 0.8 | ![](readme/number17.jpg) | ![](readme/celeb17.jpg)
+3 | 2 | 0.05 | 128 | 400 | 0.0005 | 0.2 | ![](readme/number18.jpg) | ![](readme/celeb18.jpg)
+3 | 2 | 0.05 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number19.jpg) | ![](readme/celeb19.jpg)
+4 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number20.jpg) | ![](readme/celeb20.jpg)
 
 Feels now that the discrimnator is too strong. Trying with adding dropout to the discriminator to drop the learning rate.
 
-| gen impl | disc impl | gen drop | disc drop | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
-| -------- | --------- | -------- | --------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------ |
-| 4        | 3         | 0.5      | 0.25      | 0.05  | 128        | 400   | 0.00005       | 0.5    | ![](readme/number21.png) | ![](readme/celeb21.png) |
-| 4        | 3         | 0.5      | 0.5       | 0.05  | 128        | 100   | 0.00025       | 0.5    | ![](readme/number22.png) | ![](readme/celeb22.png) |
-| 4        | 3         | 0.5      | 0.5       | 0.1   | 128        | 100   | 0.0025        | 0.5    | ![](readme/number23.png) | ![](readme/celeb23.png) |
-| 4        | 3         | 0.5      | 0.5       | 0.05  | 256        | 100   | 0.0005        | 0.5    | ![](readme/number24.png) | ![](readme/celeb24.png) |
-| 4        | 3         | 0.5      | 0.5       | 0.05  | 64         | 100   | 0.000075      | 0.5    | ![](readme/number25.png) | ![](readme/celeb25.png) |
+gen impl | disc impl | gen drop | disc drop | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output
+-------- | --------- | -------- | --------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------
+4 | 3 | 0.5 | 0.25 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number21.jpg) | ![](readme/celeb21.jpg)
+4 | 3 | 0.5 | 0.5 | 0.05 | 128 | 100 | 0.00025 | 0.5 | ![](readme/number22.jpg) | ![](readme/celeb22.jpg)
+4 | 3 | 0.5 | 0.5 | 0.1 | 128 | 100 | 0.0025 | 0.5 | ![](readme/number23.jpg) | ![](readme/celeb23.jpg)
+4 | 3 | 0.5 | 0.5 | 0.05 | 256 | 100 | 0.0005 | 0.5 | ![](readme/number24.jpg) | ![](readme/celeb24.jpg)
+4 | 3 | 0.5 | 0.5 | 0.05 | 64 | 100 | 0.000075 | 0.5 | ![](readme/number25.jpg) | ![](readme/celeb25.jpg)
 
 add smooth factor to model_loss method
 
-| gen impl | disc impl | gen/disc drop | smooth facttor | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
-| -------- | --------- | ------------- | -------------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------ |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 64         | 100   | 0.00025       | 0.45   | ![](readme/number26.png) | ![](readme/celeb26.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 128        | 100   | 0.0001        | 0.5   | ![](readme/number27.png) | ![](readme/celeb27.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 128        | 400   | 0.0001        | 0.5   | ![](readme/number28.png) | ![](readme/celeb28.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 128        | 400   | 0.00001       | 0.5   | ![](readme/number29.png) | ![](readme/celeb29.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 128        | 400   | 0.001         | 0.5   | ![](readme/number30.png) | ![](readme/celeb30.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 64         | 400   | 0.001         | 0.5   | ![](readme/number31.png) | ![](readme/celeb31.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.2   | 64         | 400   | 0.0001        | 0.5   | ![](readme/number32.png) | ![](readme/celeb32.png) |
-| 4        | 3         | 0.5 / 0.5     | 0.1            | 0.1   | 64         | 400   | 0.0001        | 0.5   | ![](readme/number33.png) | ![](readme/celeb33.png) |
-| 1        | 1         | n/a / n/a     | 0.1            | 0.1   | 128        | 400   | 0.0001        | 0.5   | ![](readme/number34.png) | ![](readme/celeb34.png) |
-| 1        | 1         | n/a / n/a     | 0.1            | 0.1   | 64         | 400   | 0.0001        | 0.5   | ![](readme/number35.png) | ![](readme/celeb35.png) |
-| 1        | 1         | n/a / n/a     | 0.1            | 0.1   | 64         | 400   | 0.0001        | 0.4   | ![](readme/number36.png) | ![](readme/celeb36.png) |
-| 1        | 1         | n/a / n/a     | 0.1            | 0.1   | 64         | 400   | 0.0001        | 0.6   | ![](readme/number37.png) | ![](readme/celeb37.png) |
-| 1        | 1         | n/a / n/a     | 0.2            | 0.1   | 64         | 400   | 0.0001        | 0.6   | ![](readme/number38.png) | ![](readme/celeb38.png) |
+gen impl | disc impl | gen/disc drop | smooth facttor | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output
+-------- | --------- | ------------- | -------------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 64 | 100 | 0.00025 | 0.45 | ![](readme/number26.jpg) | ![](readme/celeb26.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number27.jpg) | ![](readme/celeb27.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number28.jpg) | ![](readme/celeb28.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 128 | 400 | 0.00001 | 0.5 | ![](readme/number29.jpg) | ![](readme/celeb29.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 128 | 400 | 0.001 | 0.5 | ![](readme/number30.jpg) | ![](readme/celeb30.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 64 | 400 | 0.001 | 0.5 | ![](readme/number31.jpg) | ![](readme/celeb31.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 64 | 400 | 0.0001 | 0.5 | ![](readme/number32.jpg) | ![](readme/celeb32.jpg)
+4 | 3 | 0.5 / 0.5 | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.5 | ![](readme/number33.jpg) | ![](readme/celeb33.jpg)
+1 | 1 | n/a / n/a | 0.1 | 0.1 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number34.jpg) | ![](readme/celeb34.jpg)
+1 | 1 | n/a / n/a | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.5 | ![](readme/number35.jpg) | ![](readme/celeb35.jpg)
+1 | 1 | n/a / n/a | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.4 | ![](readme/number36.jpg) | ![](readme/celeb36.jpg)
+1 | 1 | n/a / n/a | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.6 | ![](readme/number37.jpg) | ![](readme/celeb37.jpg)
+1 | 1 | n/a / n/a | 0.2 | 0.1 | 64 | 400 | 0.0001 | 0.6 | ![](readme/number38.jpg) | ![](readme/celeb38.jpg)
 

@@ -34,9 +34,11 @@ This way you can stay up to date with any changes we make by pulling the changes
  
  ### Results
  
-gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output
--------- | --------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------
-1 | 1 | 0.2 | 128 | 100 | 0.0005 | 0.5 | ![](readme/number0.jpg) | ![](readme/celeb0.jpg)
+| gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
+|--------|---------|-----|----------|-----|-------------|------|-------------|------------|
+| 1 | 1 | 0.2 | 128 | 100 | 0.0005 | 0.5 | ![number](readme/number0.jpg) | ![celeb](readme/number0.jpg) |
+
+
 1 | 1 | 0.1 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number1.jpg) | ![](readme/celeb1.jpg)
 1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.5 | ![](readme/number2.jpg) | ![](readme/celeb2.jpg)
 1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.8 | ![](readme/number3.jpg) | ![](readme/celeb3.jpg)
@@ -84,5 +86,10 @@ gen impl | disc impl | gen/disc drop | smooth facttor | alpha | batch size | z d
 1 | 1 | n/a / n/a | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.5 | ![](readme/number35.jpg) | ![](readme/celeb35.jpg)
 1 | 1 | n/a / n/a | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.4 | ![](readme/number36.jpg) | ![](readme/celeb36.jpg)
 1 | 1 | n/a / n/a | 0.1 | 0.1 | 64 | 400 | 0.0001 | 0.6 | ![](readme/number37.jpg) | ![](readme/celeb37.jpg)
-1 | 1 | n/a / n/a | 0.2 | 0.1 | 64 | 400 | 0.0001 | 0.6 | ![](readme/number38.jpg) | ![](readme/celeb38.jpg)
+1 | 1 | n/a / n/a | 0.2 | 0.1 | 64 | 400 | 0.0001 | 0.6 | <img src='readme/number38.jpg' width="200"/> | ![](readme/celeb38.jpg)
 
+After review testing with double batch in inner loop, changing z_dim to 100 and weight 0.0005 as a baseline. Going back to the more complex generators.
+
+gen impl | disc impl | gen/disc drop | smooth facttor | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output
+-------- | --------- | ------------- | -------------- | ----- | ---------- | ----- | ------------- | ------ | ------------- | ------------
+4 | 3 | 0.5 / 0.5 | 0.2 | 0.1 | 128 | 100 | 0.0005 | 0.5 | ![](readme/number39.jpg) | ![](readme/celeb39.jpg)

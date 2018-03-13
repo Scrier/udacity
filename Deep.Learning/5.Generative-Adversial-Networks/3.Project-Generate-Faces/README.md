@@ -36,29 +36,27 @@ This way you can stay up to date with any changes we make by pulling the changes
  
 | gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
 |--------|---------|-----|----------|-----|-------------|------|-------------|------------|
-| 1 | 1 | 0.2 | 128 | 100 | 0.0005 | 0.5 | ![number](readme/number0.jpg) | ![celeb](readme/number0.jpg) |
-
-
-1 | 1 | 0.1 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number1.jpg) | ![](readme/celeb1.jpg)
-1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.5 | ![](readme/number2.jpg) | ![](readme/celeb2.jpg)
-1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.8 | ![](readme/number3.jpg) | ![](readme/celeb3.jpg)
-1 | 1 | 0.05 | 128 | 100 | 0.00001 | 0.8 | ![](readme/number4.jpg) | ![](readme/celeb4.jpg)
-1 | 1 | 0.05 | 128 | 100 | 0.00001 | 0.5 | ![](readme/number5.jpg) | ![](readme/celeb5.jpg)
-1 | 1 | 0.05 | 128 | 200 | 0.00005 | 0.5 | ![](readme/number6.jpg) | ![](readme/celeb6.jpg)
-1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number7.jpg) | ![](readme/celeb7.jpg)
-1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.9 | ![](readme/number8.jpg) | ![](readme/celeb8.jpg)
-1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.7 | ![](readme/number9.jpg) | ![](readme/celeb9.jpg)
-1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.3 | ![](readme/number10.jpg) | ![](readme/celeb10.jpg)
-2 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number11.jpg) | ![](readme/celeb11.jpg)
-2 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number12.jpg) | ![](readme/celeb12.jpg)
-2 | 2 | 0.05 | 256 | 400 | 0.0001 | 0.5 | ![](readme/number13.jpg) | ![](readme/celeb13.jpg)
-2 | 2 | 0.05 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number14.jpg) | ![](readme/celeb14.jpg)
-2 | 2 | 0.05 | 128 | 400 | 0.00001 | 0.5 | ![](readme/number15.jpg) | ![](readme/celeb15.jpg)
-3 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number16.jpg) | ![](readme/celeb16.jpg)
-3 | 2 | 0.05 | 128 | 400 | 0.0005 | 0.8 | ![](readme/number17.jpg) | ![](readme/celeb17.jpg)
-3 | 2 | 0.05 | 128 | 400 | 0.0005 | 0.2 | ![](readme/number18.jpg) | ![](readme/celeb18.jpg)
-3 | 2 | 0.05 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number19.jpg) | ![](readme/celeb19.jpg)
-4 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number20.jpg) | ![](readme/celeb20.jpg)
+| 1 | 1 | 0.2 | 128 | 100 | 0.0005 | 0.5 | ![](readme/number0.jpg) | ![](readme/celeb0.jpg) |
+| 1 | 1 | 0.1 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number1.jpg) | ![](readme/celeb1.jpg) |
+| 1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.5 | ![](readme/number2.jpg) | ![](readme/celeb2.jpg) |
+| 1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.8 | ![](readme/number3.jpg) | ![](readme/celeb3.jpg) |
+| 1 | 1 | 0.05 | 128 | 100 | 0.00001 | 0.8 | ![](readme/number4.jpg) | ![](readme/celeb4.jpg) |
+| 1 | 1 | 0.05 | 128 | 100 | 0.00001 | 0.5 | ![](readme/number5.jpg) | ![](readme/celeb5.jpg) |
+| 1 | 1 | 0.05 | 128 | 200 | 0.00005 | 0.5 | ![](readme/number6.jpg) | ![](readme/celeb6.jpg) |
+| 1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number7.jpg) | ![](readme/celeb7.jpg) |
+| 1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.9 | ![](readme/number8.jpg) | ![](readme/celeb8.jpg) |
+| 1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.7 | ![](readme/number9.jpg) | ![](readme/celeb9.jpg) |
+| 1 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.3 | ![](readme/number10.jpg) | ![](readme/celeb10.jpg) |
+| 2 | 1 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number11.jpg) | ![](readme/celeb11.jpg) |
+| 2 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number12.jpg) | ![](readme/celeb12.jpg) |
+| 2 | 2 | 0.05 | 256 | 400 | 0.0001 | 0.5 | ![](readme/number13.jpg) | ![](readme/celeb13.jpg) |
+| 2 | 2 | 0.05 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number14.jpg) | ![](readme/celeb14.jpg) |
+| 2 | 2 | 0.05 | 128 | 400 | 0.00001 | 0.5 | ![](readme/number15.jpg) | ![](readme/celeb15.jpg) |
+| 3 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number16.jpg) | ![](readme/celeb16.jpg) |
+| 3 | 2 | 0.05 | 128 | 400 | 0.0005 | 0.8 | ![](readme/number17.jpg) | ![](readme/celeb17.jpg) |
+| 3 | 2 | 0.05 | 128 | 400 | 0.0005 | 0.2 | ![](readme/number18.jpg) | ![](readme/celeb18.jpg) |
+| 3 | 2 | 0.05 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number19.jpg) | ![](readme/celeb19.jpg) |
+| 4 | 2 | 0.05 | 128 | 400 | 0.00005 | 0.5 | ![](readme/number20.jpg) | ![](readme/celeb20.jpg) |
 
 Feels now that the discrimnator is too strong. Trying with adding dropout to the discriminator to drop the learning rate.
 

@@ -100,4 +100,9 @@ After review testing with double batch in inner loop, changing z_dim to 100 and 
 | 3 | 3 | 0.5 / 0.5 | 0.2 | 0.1 | 32 | 100 | 0.0005 | 0.45 | ![](readme/number46.jpg) | ![](readme/celeb46.jpg) |
 | 3 | 3 | 0.5 / 0.5 | 0.1 | 0.1 | 64 | 100 | 0.0005 | 0.45 | ![](readme/number47.jpg) | ![](readme/celeb47.jpg) |
 | 3 | 3 | 0.5 / 0.5 | 0.3 | 0.1 | 64 | 100 | 0.0005 | 0.45 | ![](readme/number48.jpg) | ![](readme/celeb48.jpg) |
-| 3 | 3 | 0.5 / 0.5 | 0.3 | 0.05 | 64 | 100 | 0.0005 | 0.45 | ![](readme/number48.jpg) | ![](readme/celeb48.jpg) |
+
+Try another architecture found from suggestions on the interweb.
+
+| gen impl | disc impl | gen/disc drop | smooth factor | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
+|--------|---------|-------------|--------------|-----|----------|-----|-------------|------|-------------|------------|
+| 5 | 4 | 0.5 / 0.5 | 0.1 | 0.2 | 64 | 100 | 0.00025 | 0.45 | ![](readme/number49.jpg) | ![](readme/celeb49.jpg) |

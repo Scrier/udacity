@@ -5,3 +5,5 @@
 [2. Deep Convolutional GANs](2.Deep-Convolutional-Gan/README.md)
 
 [3. Project: Generate Faces](3.Project-Generate-Faces/README.md)
+
+[4. Semi-Supervised Learning](4.Semi-Supervised-Learning/README.md)

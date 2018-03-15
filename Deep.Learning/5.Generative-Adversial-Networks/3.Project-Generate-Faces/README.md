@@ -35,7 +35,7 @@ This way you can stay up to date with any changes we make by pulling the changes
  ### Results
  
 | gen impl | disc impl | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
-|--------| ---------| -----|----------|-----|-------------|------|-------------|------------|
+|--------|---------|-----|----------|-----|-------------|------|-------------|------------|
 | 1 | 1 | 0.2 | 128 | 100 | 0.0005 | 0.5 | ![](readme/number0.jpg) | ![](readme/celeb0.jpg) |
 | 1 | 1 | 0.1 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number1.jpg) | ![](readme/celeb1.jpg) |
 | 1 | 1 | 0.05 | 128 | 100 | 0.00005 | 0.5 | ![](readme/number2.jpg) | ![](readme/celeb2.jpg) |
@@ -71,7 +71,7 @@ Feels now that the discrimnator is too strong. Trying with adding dropout to the
 add smooth factor to model_loss method
 
 | gen impl | disc impl | gen/disc drop | smooth factor | alpha | batch size | z dim | learning rate | beta 1 | Number Output | Celeb Output |
-|--------|---------| -------------|--------------|-----|----------|-----|-------------|------|-------------|------------|
+|--------|---------|-------------|--------------|-----|----------|-----|-------------|------|-------------|------------|
 | 4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 64 | 100 | 0.00025 | 0.45 | ![](readme/number26.jpg) | ![](readme/celeb26.jpg) |
 | 4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 128 | 100 | 0.0001 | 0.5 | ![](readme/number27.jpg) | ![](readme/celeb27.jpg) |
 | 4 | 3 | 0.5 / 0.5 | 0.1 | 0.2 | 128 | 400 | 0.0001 | 0.5 | ![](readme/number28.jpg) | ![](readme/celeb28.jpg) |

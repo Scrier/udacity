@@ -49,6 +49,13 @@ the notebooks from there, or do a `git pull` if you already have the repo.
 [![Video](readme/video8.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F4.Semi-Supervised-Learning%2Freadme&filename=8_-_Discriminator_Solution.mp4&fid=0MZqBkd&open=normal)
 
 ## 10. Model Loss Solution
+
+[![Video](readme/video9.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F4.Semi-Supervised-Learning%2Freadme&filename=9_-_Model_Loss_Solution.mp4&fid=0MZqBkd&open=normal)
+
 ## 11. Model Optimizer Solution
+
+[![Video](readme/video10.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F4.Semi-Supervised-Learning%2Freadme&filename=10_-_Model_Optimizer_Solution.mp4&fid=0MZqBkd&open=normal)
+
 ## 12. Trained Semi-Supervised GAN
 
+[![Video](readme/video11.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F4.Semi-Supervised-Learning%2Freadme&filename=11_-_Trained_Semi-Supervised_GAN.mp4&fid=0MZqBkd&open=normal)

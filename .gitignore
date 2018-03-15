@@ -123,4 +123,5 @@ ENV/
 text8
 *.txt
 *.pkl
+*.mat
 

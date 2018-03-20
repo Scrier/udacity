@@ -10,6 +10,8 @@
 
 [5. Generative Adversial Networks](5.Generative-Adversial-Networks/README.md)
 
+[6. Reinforcement Learning](6.Reinforcement-Learning/README.md)
+
 # Links
 
 [View Jupyter Notebooks](http://nbviewer.jupyter.org/)

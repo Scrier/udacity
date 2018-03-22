@@ -144,27 +144,27 @@ to each of the possible thresholds between 0% and 100%, we'll get the ROC curve 
 
 And finally, here's a little animation of the ROC curve getting drawn, as the threshold moves from 0 to 1.
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=17%20-%20Images.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=17%20-%20Images.mp4&fid=0MZqBkd&open=normal)
 
 ## 19. Quiz: ROC Curve
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=18%20-%2017%20Quiz%20ROC%20Curve%201%20PT2%20V1.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=18%20-%2017%20Quiz%20ROC%20Curve%201%20PT2%20V1.mp4&fid=0MZqBkd&open=normal)
 
 ## 20. Solution: ROC Curve
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=19%20-%20Solution%20ROC%20Curve.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=19%20-%20Solution%20ROC%20Curve.mp4&fid=0MZqBkd&open=normal)
 
 ## 21. Comparing our Results with Doctors
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=20%20-%20ROC%20Curve.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=20%20-%20ROC%20Curve.mp4&fid=0MZqBkd&open=normal)
 
 ## 22. Visualization
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=21%20-%20Visualization.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=21%20-%20Visualization.mp4&fid=0MZqBkd&open=normal)
 
 ## 23. What is the network looking at?
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=22%20-%20What%20Is%20The%20Neural%20Network%20Looking%20At.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=22%20-%20What%20Is%20The%20Neural%20Network%20Looking%20At.mp4&fid=0MZqBkd&open=normal)
 
 ## 24. Refresh on Confusion Matrices
 
@@ -185,11 +185,11 @@ Now, let's test our knowledge with some quizzes.
 
 ## 25. Confusion Matrix
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=23%20-%20Confusion%20Matrix.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=23%20-%20Confusion%20Matrix.mp4&fid=0MZqBkd&open=normal)
 
 ## 26. Conclusion
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=24%20-%20Conclusion.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=24%20-%20Conclusion.mp4&fid=0MZqBkd&open=normal)
 
 ## 27. Useful Resources
 
@@ -206,7 +206,7 @@ Other articles about our work:
 
 ## 28. Mini Project Introduction
 
-[![Video](readme/video.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=25%20-%20Mini%20Project%20Introduction.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F3.Convulutional-Networks%2F8.Deep-Learning-for-Cancer-Detection%2Freadme&filename=25%20-%20Mini%20Project%20Introduction.mp4&fid=0MZqBkd&open=normal)
 
 ## 29. Mini Project: Dermatologist AI
 

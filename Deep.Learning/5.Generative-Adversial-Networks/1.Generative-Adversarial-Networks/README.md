@@ -2,25 +2,25 @@
 
 ## 1. Introducing Ian Goodfellow
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=1_-_GANs_Intro.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=1_-_GANs_Intro.mp4&fid=0MZqBkd&open=normal)
 
 ## 2. What can you do with GANs?
 
-[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=2_-_Cool_Things_To_Do_With_GANs.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=2_-_Cool_Things_To_Do_With_GANs.mp4&fid=0MZqBkd&open=normal)
 
 ## 3. How GANs work
 
-[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=3_-_Other_Generative_Models,_How_GANs_Work.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=3_-_Other_Generative_Models,_How_GANs_Work.mp4&fid=0MZqBkd&open=normal)
 
 You can find more information on the graph in the video in Figure 1 of [https://arxiv.org/pdf/1406.2661.pdf](https://arxiv.org/pdf/1406.2661.pdf).
 
 ## 4. Games and Equilibria
 
-[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=4_-_Games,_Equilibrium,_GANs_Solution_Render.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=4_-_Games,_Equilibrium,_GANs_Solution_Render.mp4&fid=0MZqBkd&open=normal)
 
 ## 5. Practical tips and tricks for training GANs
  
-[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=5_-_GANs_Architecture_.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=5_-_GANs_Architecture_.mp4&fid=0MZqBkd&open=normal)
 
 ## 6. Build a GAN
 
@@ -41,43 +41,43 @@ git clone https://github.com/udacity/deep-learning.git
 
 ## 7. Get started with a GAN
 
-[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=6_-_Getting_Started_with_GANs.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=6_-_Getting_Started_with_GANs.mp4&fid=0MZqBkd&open=normal)
 
 ## 8. Generator Network
 
-[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=7_-_Generator_Network.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=7_-_Generator_Network.mp4&fid=0MZqBkd&open=normal)
 
 ## 9. Discriminator Network
 
-[![Video](readme/video7.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=8_-_Discriminator_Network.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=8_-_Discriminator_Network.mp4&fid=0MZqBkd&open=normal)
 
 ## 10. Generator and Discrinator Solutions
 
-[![Video](readme/video8.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=9_-_Generator_and_Discriminator_Solutions.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=9_-_Generator_and_Discriminator_Solutions.mp4&fid=0MZqBkd&open=normal)
 
 ## 11. Building the Network
 
-[![Video](readme/video9.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=10_-_Building_the_Network.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=10_-_Building_the_Network.mp4&fid=0MZqBkd&open=normal)
 
 ## 12. Building the Network Solution
 
-[![Video](readme/video10.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=11_-_Building_the_Network_Solution.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=11_-_Building_the_Network_Solution.mp4&fid=0MZqBkd&open=normal)
 
 ## 13. Training Losses
 
-[![Video](readme/video11.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=12_-_Training_Losses.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=12_-_Training_Losses.mp4&fid=0MZqBkd&open=normal)
 
 ## 14. Optimizers
 
-[![Video](readme/video12.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=13_-_Training_Optimizers.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=13_-_Training_Optimizers.mp4&fid=0MZqBkd&open=normal)
 
 ## 15. Training Losses and Optimizers Solution
 
-[![Video](readme/video13.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=14_-_Training_Losses_and_Optimizers_Solutions.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=14_-_Training_Losses_and_Optimizers_Solutions.mp4&fid=0MZqBkd&open=normal)
 
 ## 16. A Trained GAN
 
-[![Video](readme/video14.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=15_-_A_Trained_GAN.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F1.Generative-Adversarial-Networks%2Freadme&filename=15_-_A_Trained_GAN.mp4&fid=0MZqBkd&open=normal)
 
 ## 17. Doing More With Your GAN
 

@@ -4,4 +4,6 @@
 
 [2. The RL Framework: The Problem](2.The-RL-Framework-the-problem/README.md)
 
+[3. The RL Framework: The Solution](3.The-RL-Framwork-the-Solution/README.md)
+
 

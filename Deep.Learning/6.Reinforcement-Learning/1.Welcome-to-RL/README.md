@@ -2,11 +2,11 @@
 
 ## 1. Introduction
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=1_-_Introduction.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=1_-_Introduction.mp4&fid=0MZqBkd&open=normal)
 
 ## 2. Applications
 
-[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=2_-_Applications.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=2_-_Applications.mp4&fid=0MZqBkd&open=normal)
 
 ### Optional Resources
 
@@ -23,11 +23,11 @@
 
 ## 3. The Setting
 
-[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=3_-_The_Setting.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=3_-_The_Setting.mp4&fid=0MZqBkd&open=normal)
 
 ## 4. OpenAI Gym
 
-[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=4_-_OpenAI_Gym.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=4_-_OpenAI_Gym.mp4&fid=0MZqBkd&open=normal)
 
 You are **not** required to install OpenAI Gym on your computer, and you will have the option to do all of your coding 
 implementations within the classroom. You can learn more about OpenAI Gym by perusing the [GitHub repository](https://github.com/openai/gym.git).
@@ -60,7 +60,7 @@ python random_agent.py
 
 ## 5. Resources
 
-[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=5_-_Resources.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F1.Welcome-to-RL%2Freadme&filename=5_-_Resources.mp4&fid=0MZqBkd&open=normal)
 
 As part of this course, we will recommend excerpts from this [classic textbook on reinforcement learning](http://go.udacity.com/rl-textbook).
 

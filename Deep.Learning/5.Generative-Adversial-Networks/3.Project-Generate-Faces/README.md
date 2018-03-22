@@ -2,11 +2,11 @@
 
 ## 1. One Project Away!
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F3.Project-Generate-Faces%2Freadme&filename=1_-_Last_Project_-_Congrats.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F3.Project-Generate-Faces%2Freadme&filename=1_-_Last_Project_-_Congrats.mp4&fid=0MZqBkd&open=normal)
 
 ## 2. Project Introduction
 
-[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F3.Project-Generate-Faces%2Freadme&filename=2_-_P5_Intro.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F5.Generative-Adversial-Networks%2F3.Project-Generate-Faces%2Freadme&filename=2_-_P5_Intro.mp4&fid=0MZqBkd&open=normal)
 
 ## 3. Project: Generate Faces
 

@@ -2,11 +2,11 @@
 
 ## 2.Introduction
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=1_-_Introduction.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=1_-_Introduction.mp4&fid=0MZqBkd&open=normal)
 
 ## 3. Learning Rate
 
-[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=2_-_Learning_Rate.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=2_-_Learning_Rate.mp4&fid=0MZqBkd&open=normal)
 
 [Exponential Decay](https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay) in TensorFlow.
 
@@ -25,13 +25,13 @@
 
 ## 5. Minitbatch Size
 
-[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=3_-_Minibatch_Size.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=3_-_Minibatch_Size.mp4&fid=0MZqBkd&open=normal)
 
 [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) by Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas
 
 ## 6. Number of Training Iterations / Epochs
 
-[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=4_-_Number_Of_Iterations.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=4_-_Number_Of_Iterations.mp4&fid=0MZqBkd&open=normal)
 
 The number of training iterations is a hyperparameter we can optimize automatically using a technique called early 
 stopping (also "early termination").
@@ -86,7 +86,7 @@ At the time of writing, two pre-defined stopping monitors exist as a part of tf.
 
 ## 7. Number of Hidden Units / Layers
 
-[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=5_-_Number_Of_Hidden_Units_Layers.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=5_-_Number_Of_Hidden_Units_Layers.mp4&fid=0MZqBkd&open=normal)
 
 "in practice it is often the case that 3-layer neural networks will outperform 2-layer nets, but going even deeper 
 (4,5,6-layer) rarely helps much more. This is in stark contrast to Convolutional Networks, where depth has been found 
@@ -99,7 +99,7 @@ A more detailed discussion on a model's capacity appears in the [Deep Learning b
 
 ## 8. RNN Hyperparameters
 
-[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=6_-_RNN_Hyperparameters.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F4.Hyperparameters%2Freadme&filename=6_-_RNN_Hyperparameters.mp4&fid=0MZqBkd&open=normal)
 
 ### LSTM Vs GRU
 

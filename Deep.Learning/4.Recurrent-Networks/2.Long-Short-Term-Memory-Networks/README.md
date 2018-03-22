@@ -17,19 +17,19 @@ So, let's dig in!
 
 ## 2. RNN vs LSTM
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=1_-_RNN_Vs_LSTM.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=1_-_RNN_Vs_LSTM.mp4&fid=0MZqBkd&open=normal)
 
 ## 3. Basics of LSTM
 
-[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=2_-_LSTM_Basics.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=2_-_LSTM_Basics.mp4&fid=0MZqBkd&open=normal)
 
 ## 4. Architecture of LSTM
 
-[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=3_-_LSTM_Architecture.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=3_-_LSTM_Architecture.mp4&fid=0MZqBkd&open=normal)
 
 ## 5. The Learn Gate
 
-[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=4_-_Learn_Gate.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=4_-_Learn_Gate.mp4&fid=0MZqBkd&open=normal)
 
 <object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-2-5.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=part4-2-5.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
     <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-2-5.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=part4-2-5.pdf&openfolder=normal&ep=">
@@ -39,7 +39,7 @@ So, let's dig in!
 
 ## 6. The Forget Gate
 
-[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=5_-_Forget_Gate.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=5_-_Forget_Gate.mp4&fid=0MZqBkd&open=normal)
 
 <object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-2-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=part4-2-6.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
     <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-2-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=part4-2-6.pdf&openfolder=normal&ep=">
@@ -49,11 +49,11 @@ So, let's dig in!
 
 ## 7. The Remember Gate
 
-[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=6_-_Remember_Gate.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=6_-_Remember_Gate.mp4&fid=0MZqBkd&open=normal)
 
 ## 8. The Use Gate
 
-[![Video](readme/video7.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=7_-_LSTM_7_Use_Gate.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=7_-_LSTM_7_Use_Gate.mp4&fid=0MZqBkd&open=normal)
 
 <object data="http://scrier.myqnapcloud.com:8080/share.cgi/part4-2-8.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=part4-2-8.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
     <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part4-2-8.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=part4-2-8.pdf&openfolder=normal&ep=">
@@ -63,7 +63,7 @@ So, let's dig in!
 
 ## 9. Putting it All Togheter
 
-[![Video](readme/video8.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=8_-_Putting_It_All_Together.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=8_-_Putting_It_All_Together.mp4&fid=0MZqBkd&open=normal)
 
 ## 10. Quiz
 
@@ -75,4 +75,4 @@ So, let's dig in!
 
 ## 11. Other Architectures
 
-[![Video](readme/video9.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=9_-_Other_Architectures.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F2.Long-Short-Term-Memory-Networks%2Freadme&filename=9_-_Other_Architectures.mp4&fid=0MZqBkd&open=normal)

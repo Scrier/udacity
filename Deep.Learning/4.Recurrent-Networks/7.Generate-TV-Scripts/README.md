@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F7.Generate-TV-Scripts%2Freadme&filename=1_-_Project-3-Intro.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F7.Generate-TV-Scripts%2Freadme&filename=1_-_Project-3-Intro.mp4&fid=0MZqBkd&open=normal)
 
 ## 2. Project: Generate TV Scripts
 

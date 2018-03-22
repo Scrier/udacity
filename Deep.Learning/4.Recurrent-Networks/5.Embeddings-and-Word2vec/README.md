@@ -24,32 +24,32 @@ Next up, I'll walk you through implementing the Word2Vec model.
 
 ## 2. Implementing Word2Vec
 
-[![Video](readme/video1.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=1_-_Implementing_Word2Vec.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=1_-_Implementing_Word2Vec.mp4&fid=0MZqBkd&open=normal)
 
 ## 3. Subsampling Solution
 
-[![Video](readme/video2.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=2_-_Subsampling_Solution.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=2_-_Subsampling_Solution.mp4&fid=0MZqBkd&open=normal)
 
 ## 4. Making Batches
 
-[![Video](readme/video3.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=3_-_Making_Batches.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=3_-_Making_Batches.mp4&fid=0MZqBkd&open=normal)
 
 ## 5. Batches Solution
 
-[![Video](readme/video4.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=4_-_Batches_Solution.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=4_-_Batches_Solution.mp4&fid=0MZqBkd&open=normal)
 
 ## 6. Building the Network
 
-[![Video](readme/video5.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=5_-_Building_The_Network.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=5_-_Building_The_Network.mp4&fid=0MZqBkd&open=normal)
 
 ## 7. Negative Sampling
 
-[![Video](readme/video6.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=6_-_Negative_Sampling.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=6_-_Negative_Sampling.mp4&fid=0MZqBkd&open=normal)
 
 ## 8. Building the Network Solution
 
-[![Video](readme/video7.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=7_-_Building_The_Network_Solution.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=7_-_Building_The_Network_Solution.mp4&fid=0MZqBkd&open=normal)
 
 ## 9. Training Results
 
-[![Video](readme/video8.png)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=8_-_Training_Results.mp4&fid=0MZqBkd&open=normal)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F4.Recurrent-Networks%2F5.Embeddings-and-Word2vec%2Freadme&filename=8_-_Training_Results.mp4&fid=0MZqBkd&open=normal)

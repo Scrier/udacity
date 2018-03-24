@@ -6,4 +6,6 @@
 
 [3. The RL Framework: The Solution](3.The-RL-Framwork-the-Solution/README.md)
 
+[4. Dynamic Programming](4.Dynamic-Programming/README.md)
+
 

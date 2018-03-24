@@ -81,3 +81,127 @@ Please do not write or execute any code just yet. We'll get started with coding 
 ![image](readme/part4-2-2.png)
 
 To peruse the other files, you need only click on "jupyter" in the top left corner to return to the Notebook dashboard.
+
+## 3. Another Gridworld Example
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=2_-_Another_Gridworld_Example.mp4&fid=0MZqBkd&open=normal)
+
+In this simple gridworld example, you may find it easy to determine the optimal policy by visual inspection. Of course, 
+solving Markov decision processes (MDPs) corresponding to real world problems will prove far more challenging! :)
+
+To avoid over-complicating the theory, we'll use this simple example to illustrate the same algorithms that are used 
+to solve much more complicated MDPs.
+
+## 4. An Iterativ Method, Part 1
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=3_-_An_Iterative_Method.mp4&fid=0MZqBkd&open=normal)
+
+## 5. An Iterativ Method, Part 2
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-5.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-5.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-5.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-5.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-5.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-5.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 6. Quiz: An Iterative Method
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-6.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-6.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-6.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 7. Iterative Policy Evaluation
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=4_-_Iterative_Policy_Evaluation.mp4&fid=0MZqBkd&open=normal)
+
+## 8. Implementation
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-8.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-8.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-8.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-8.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-8.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-8.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 10. Action Values
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-10.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-10.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-10.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-10.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 11. Implementation
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-11.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-11.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-11.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 13. Policy Improvement
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=5_-_Policy_Improvement.mp4&fid=0MZqBkd&open=normal)
+
+## 14. Implementation
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-14.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-14.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-14.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 16. Policy Iteration
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=6_-_Policy_Iteration.mp4&fid=0MZqBkd&open=normal)
+
+## 17. Implementation
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-17.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-17.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-17.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-17.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-17.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-17.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 19. Truncated Policy Iteration
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=7_-_Truncated_Policy_Iteration.mp4&fid=0MZqBkd&open=normal)
+
+## 20. Implementation
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-20.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-20.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-20.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 22. Value Iteration
+
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=8_-_Value_Iteration.mp4&fid=0MZqBkd&open=normal)
+
+## 23. Implementation
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-23.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-23.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-23.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-23.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-23.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-23.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## 25. Check your Understanding
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-25.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-25.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-25.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-25.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-25.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-25.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
+
+[Solution](readme/solution-part25.png)
+
+## 26. Summary
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-26.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-26.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-26.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-26.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-4-26.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F4.Dynamic-Programming%2Freadme&filename=part6-4-26.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>

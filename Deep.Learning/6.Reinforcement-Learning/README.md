@@ -8,4 +8,6 @@
 
 [4. Dynamic Programming](4.Dynamic-Programming/README.md)
 
+[5. Monte Carlo Methods](5.Monte-Carlo-Methods/README.md)
+
 

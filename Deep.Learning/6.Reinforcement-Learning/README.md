@@ -10,4 +10,6 @@
 
 [5. Monte Carlo Methods](5.Monte-Carlo-Methods/README.md)
 
+[6. Temporal-Difference Methods](6.Temporal-Difference-Methods/README.md)
+
 

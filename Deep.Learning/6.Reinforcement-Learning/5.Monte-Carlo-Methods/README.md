@@ -68,9 +68,9 @@ the description of the environment below:
 
 ## 7. Implementation
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-7.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-7.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-7.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-7.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-7.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-7.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-7.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-7.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-7.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-7.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-7.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-7.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -84,9 +84,9 @@ the description of the environment below:
 
 ## 11. Quiz: Incremental Mean
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-11.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-11.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-11.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-11.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-11.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-11.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-11.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -100,25 +100,25 @@ the description of the environment below:
 
 ## 14. Quiz: Epsilon-Greedy Policies
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-14.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-14.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-14.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-14.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-14.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-14.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-14.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## 15. Exploration vs. Explotation
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-15.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-15.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-15.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-15.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-15.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-15.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-15.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## 16. Implementation
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-16.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-16.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-16.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-16.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-16.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-16.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-16.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-16.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-16.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-16.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-16.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-16.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -128,24 +128,24 @@ the description of the environment below:
 
 ## 19. MC Control: Constant-alpha, Part 2
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-19.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-19.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-19.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-19.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-19.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-19.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-19.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## 20. Implementation
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-20.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-20.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-20.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-20.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-20.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-20.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-20.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## 22. Summary
 
-<object data="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-22.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-22.pdf&openfolder=normal&ep=">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="hhttp://scrier.myqnapcloud.com:8080/share.cgi/part6-5-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-22.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-22.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-22.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part6-5-22.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F6.Reinforcement-Learning%2F5.Monte-Carlo-Methods%2Freadme&filename=part6-5-22.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
     </embed>
 </object>

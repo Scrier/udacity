@@ -12,4 +12,6 @@
 
 [6. Temporal-Difference Methods](6.Temporal-Difference-Methods/README.md)
 
+[7. Mini Project: Solve OpenAI Gym's Taxi-v2 Task](7.Mini-Project-Solve-Open-AI-Taxi/README.md)
+
 

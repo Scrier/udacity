@@ -14,4 +14,6 @@
 
 [7. Mini Project: Solve OpenAI Gym's Taxi-v2 Task](7.Mini-Project-Solve-Open-AI-Taxi/README.md)
 
+[8. RL in Continous Spaces](8.RL-in-Continous-Spaces/README.md)
+
 

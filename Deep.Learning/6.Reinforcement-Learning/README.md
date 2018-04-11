@@ -16,4 +16,6 @@
 
 [8. RL in Continous Spaces](8.RL-in-Continous-Spaces/README.md)
 
+[9. Deep Q Learning](9.Deep-Q-Learning/README.md)
+
 

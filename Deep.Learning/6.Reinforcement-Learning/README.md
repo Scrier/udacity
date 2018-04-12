@@ -18,4 +18,6 @@
 
 [9. Deep Q Learning](9.Deep-Q-Learning/README.md)
 
+[10. Policy Gradients](10.Policy-Gradients/README.md)
+
 

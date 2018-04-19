@@ -20,4 +20,4 @@
 
 [10. Policy Gradients](10.Policy-Gradients/README.md)
 
-
+[11. Actor-Critic Methods](11.Actor-Critic-Methods/README.md)

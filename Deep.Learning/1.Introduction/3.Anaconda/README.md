@@ -2,53 +2,92 @@
 
 ## 1. Introduction
 
-![Video](readme/1%20-%20Why%20Anaconda%3F.mp4)
-
-[Anaconda](https://anaconda.org/) is a distribution of packages built for data science. It comes with conda, a package and environment manager. You'll be using conda to create environments for isolating your projects that use different versions of Python and/or different packages. You'll also use it to install, uninstall, and update packages in your environments. Using Anaconda has made my life working with data much more pleasant.
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F3.Anaconda%2Freadme&filename=1%20-%20Why%20Anaconda%3F.mp4&fid=0MZqBkd&open=normal)
+ 
+[Anaconda](https://anaconda.org/) is a distribution of packages built for data science. It comes with conda, a package 
+and environment manager. You'll be using conda to create environments for isolating your projects that use different 
+versions of Python and/or different packages. You'll also use it to install, uninstall, and update packages in your 
+environments. Using Anaconda has made my life working with data much more pleasant.
 
 ## 2. What is Anaconda?
 
-Welcome to this lesson on using [Anaconda](https://www.continuum.io/why-anaconda) to manage packages and environments for use with Python. With Anaconda, it's simple to install the packages you'll often use in data science work. You'll also use it to create virtual environments that make working on multiple projects much less mind-twisting. Anaconda has simplified my workflow and solved a lot of issues I had dealing with packages and multiple Python versions.
+Welcome to this lesson on using [Anaconda](https://www.continuum.io/why-anaconda) to manage packages and environments 
+for use with Python. With Anaconda, it's simple to install the packages you'll often use in data science work. You'll 
+also use it to create virtual environments that make working on multiple projects much less mind-twisting. Anaconda has 
+simplified my workflow and solved a lot of issues I had dealing with packages and multiple Python versions.
 
-Anaconda is actually a distribution of software that comes with `conda`, Python, and over 150 scientific packages and their dependencies. The application `conda` is a package and environment manager. Anaconda is a fairly large download (~500 MB) because it comes with the most common data science packages in Python. If you don't need all the packages or need to conserve bandwidth or storage space, there is also **Miniconda**, a smaller distribution that includes only `conda` and Python. You can still install any of the available packages with `conda`, it just doesn't come with them.
+Anaconda is actually a distribution of software that comes with `conda`, Python, and over 150 scientific packages and 
+their dependencies. The application `conda` is a package and environment manager. Anaconda is a fairly large download 
+(~500 MB) because it comes with the most common data science packages in Python. If you don't need all the packages or 
+need to conserve bandwidth or storage space, there is also **Miniconda**, a smaller distribution that includes only 
+`conda` and Python. You can still install any of the available packages with `conda`, it just doesn't come with them.
 
-`conda` is a program you'll be using exclusively from the command line, so if you aren't comfortable using it, check out this [command prompt tutorial for Windows](https://www.lynda.com/-tutorials/Windows-command-line-basics/497312/513424-4.html) or our [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) course for OSX/Linux.
+`conda` is a program you'll be using exclusively from the command line, so if you aren't comfortable using it, check 
+out this [command prompt tutorial for Windows](https://www.lynda.com/-tutorials/Windows-command-line-basics/497312/513424-4.html) 
+or our [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) course for 
+OSX/Linux.
 
-You probably already have Python installed and wonder why you need this at all. Firstly, since Anaconda comes with a bunch of data science packages, you'll be all set to start working with data. Secondly, using `conda` to manage your packages and environments will reduce future issues dealing with the various libraries you'll be using.
+You probably already have Python installed and wonder why you need this at all. Firstly, since Anaconda comes with a 
+bunch of data science packages, you'll be all set to start working with data. Secondly, using `conda` to manage your 
+packages and environments will reduce future issues dealing with the various libraries you'll be using.
 
 ### Managing Packages
 
 ![Installing numpy with conda](readme/part2-1.png)
 
-Package managers are used to install libraries and other software on your computer. You’re probably already familiar with pip, it’s the default package manager for Python libraries. Conda is similar to pip except that the available packages are focused around data science while pip is for general use. However, conda is not Python specific like pip is, it can also install non-Python packages. It is a package manager for any software stack. That being said, not all Python libraries are available from the Anaconda distribution and conda. You can (and will) still use pip alongside conda to install packages.
+Package managers are used to install libraries and other software on your computer. You’re probably already familiar 
+with pip, it’s the default package manager for Python libraries. Conda is similar to pip except that the available 
+packages are focused around data science while pip is for general use. However, conda is not Python specific like pip 
+is, it can also install non-Python packages. It is a package manager for any software stack. That being said, not all 
+Python libraries are available from the Anaconda distribution and conda. You can (and will) still use pip alongside 
+conda to install packages.
 
-Conda installs precompiled packages. For example, the Anaconda distribution comes with Numpy, Scipy and Scikit-learn compiled with the [MKL library](https://docs.continuum.io/mkl-optimizations/), speeding up various math operations. The packages are maintained by contributors to the distribution which means they usually lag behind new releases. But because someone needed to build the packages for many systems, they tend to be more stable (and more convenient for you).
+Conda installs precompiled packages. For example, the Anaconda distribution comes with Numpy, Scipy and Scikit-learn 
+compiled with the [MKL library](https://docs.continuum.io/mkl-optimizations/), speeding up various math operations. 
+The packages are maintained by contributors to the distribution which means they usually lag behind new releases. But 
+because someone needed to build the packages for many systems, they tend to be more stable (and more convenient for 
+you).
 
 ### Environments
 
 ![Creating an environment with conda](readme/part2-2.png)
 
-Along with managing packages, Conda is also a virtual environment manager. It's similar to [virtualenv](https://virtualenv.pypa.io/en/stable/) and [pyenv](https://github.com/yyuu/pyenv), other popular environment managers.
+Along with managing packages, Conda is also a virtual environment manager. It's similar to [virtualenv](https://virtualenv.pypa.io/en/stable/) 
+and [pyenv](https://github.com/yyuu/pyenv), other popular environment managers.
 
-Environments allow you to separate and isolate the packages you are using for different projects. Often you’ll be working with code that depends on different versions of some library. For example, you could have code that uses new features in Numpy, or code that uses old features that have been removed. It’s practically impossible to have two versions of Numpy installed at once. Instead, you should make an environment for each version of Numpy then work in the appropriate environment for the project.
+Environments allow you to separate and isolate the packages you are using for different projects. Often you’ll be 
+working with code that depends on different versions of some library. For example, you could have code that uses new 
+features in Numpy, or code that uses old features that have been removed. It’s practically impossible to have two 
+versions of Numpy installed at once. Instead, you should make an environment for each version of Numpy then work in 
+the appropriate environment for the project.
 
-This issue also happens a lot when dealing with Python 2 and Python 3. You might be working with old code that doesn’t run in Python 3 and new code that doesn’t run in Python 2. Having both installed can lead to a lot of confusion and bugs. It’s much better to have separate environments.
+This issue also happens a lot when dealing with Python 2 and Python 3. You might be working with old code that doesn’t 
+run in Python 3 and new code that doesn’t run in Python 2. Having both installed can lead to a lot of confusion and 
+bugs. It’s much better to have separate environments.
 
-You can also export the list of packages in an environment to a file, then include that file with your code. This allows other people to easily load all the dependencies for your code. Pip has similar functionality with `pip freeze > requirements.txt`.
+You can also export the list of packages in an environment to a file, then include that file with your code. This 
+allows other people to easily load all the dependencies for your code. Pip has similar functionality with 
+`pip freeze > requirements.txt`.
 
 ### Where we go from here
 
-Next, I'll get into the details of using Anaconda. First I'll cover installing it, then using the package manager, and finally creating and managing environments.
+Next, I'll get into the details of using Anaconda. First I'll cover installing it, then using the package manager, 
+and finally creating and managing environments.
 
 ## 3.Installing Anaconda
 
-Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers and installation instructions at https://www.continuum.io/downloads.
+Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers and installation instructions at 
+https://www.continuum.io/downloads.
 
-If you already have Python installed on your computer, this won't break anything. Instead, the default Python used by your scripts and programs will be the one that comes with Anaconda.
+If you already have Python installed on your computer, this won't break anything. Instead, the default Python used by 
+your scripts and programs will be the one that comes with Anaconda.
 
-Choose the Python 3.6 version, you can install Python 2 versions later. (For Machine Learning Engineer Nanodegree you need Python 2 version) Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 32-bit installer. Go ahead and choose the appropriate version, then install it. Continue on afterwards!
+Choose the Python 3.6 version, you can install Python 2 versions later. (For Machine Learning Engineer Nanodegree you 
+need Python 2 version) Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 
+32-bit installer. Go ahead and choose the appropriate version, then install it. Continue on afterwards!
 
-After installation, you’re automatically in the default conda environment with all packages installed which you can see below. You can check out your own install by entering `conda list` into your terminal.
+After installation, you’re automatically in the default conda environment with all packages installed which you can 
+see below. You can check out your own install by entering `conda list` into your terminal.
 
 ### On Windows
 
@@ -58,18 +97,22 @@ A bunch of applications are installed along with Anaconda:
  * **Anaconda Prompt**, a terminal where you can use the command line interface to manage your environments and packages
  * **Spyder**, an IDE geared toward scientific development
 
-To avoid errors later, it's best to update all the packages in the default environment. Open the Anaconda Prompt application. In the prompt, run the following commands:
+To avoid errors later, it's best to update all the packages in the default environment. Open the Anaconda Prompt 
+application. In the prompt, run the following commands:
 
 ```bash
 conda upgrade conda
 conda upgrade --all
 ```
 
-and answer yes when asked if you want to install the packages. The packages that come with the initial install tend to be out of date, so updating them now will prevent future errors from out of date software.
+and answer yes when asked if you want to install the packages. The packages that come with the initial install tend 
+to be out of date, so updating them now will prevent future errors from out of date software.
 
-**Note:** In the previous step, running `conda upgrade conda` should not be necessary because --all includes the conda package itself, but some users have encountered errors without it.
+**Note:** In the previous step, running `conda upgrade conda` should not be necessary because --all includes the 
+conda package itself, but some users have encountered errors without it.
 
-In the rest of this lesson, I'll be asking you to use commands in your terminal. I highly suggest you start working with Anaconda this way, then later use the GUI if you'd like.
+In the rest of this lesson, I'll be asking you to use commands in your terminal. I highly suggest you start working 
+with Anaconda this way, then later use the GUI if you'd like.
 
 ### Troubleshooting
 
@@ -79,15 +122,24 @@ If you are seeing the following "conda command not found" and are using ZShell, 
 
 ## 4.Managing Packages
 
-Once you have Anaconda installed, managing packages is fairly straightforward. To install a package, type `conda install package_name` in your terminal. For example, to install numpy, type `conda install numpy`.
+Once you have Anaconda installed, managing packages is fairly straightforward. To install a package, type 
+`conda install package_name` in your terminal. For example, to install numpy, type `conda install numpy`.
 
-You can install multiple packages at the same time. Something like `conda install numpy scipy pandas` will install all those packages simultaneously. It's also possible to specify which version of a package you want by adding the version number such as `conda install numpy=1.10`.
+You can install multiple packages at the same time. Something like `conda install numpy scipy pandas` will install 
+all those packages simultaneously. It's also possible to specify which version of a package you want by adding the 
+version number such as `conda install numpy=1.10`.
 
-Conda also automatically installs dependencies for you. For example `scipy` depends on `numpy`, it uses and requires `numpy`. If you install just `scipy` (`conda install scipy`), Conda will also install `numpy` if it isn't already installed.
+Conda also automatically installs dependencies for you. For example `scipy` depends on `numpy`, it uses and requires 
+`numpy`. If you install just `scipy` (`conda install scipy`), Conda will also install `numpy` if it isn't already 
+installed.
 
-Most of the commands are pretty intuitive. To uninstall, use `conda remove package_name`. To update a package `conda update package_name`. If you want to update all packages in an environment, which is often useful, use `conda update --all`. And finally, to list installed packages, it's `conda list` which you've seen before.
+Most of the commands are pretty intuitive. To uninstall, use `conda remove package_name`. To update a package 
+`conda update package_name`. If you want to update all packages in an environment, which is often useful, use 
+`conda update --all`. And finally, to list installed packages, it's `conda list` which you've seen before.
 
-If you don't know the exact name of the package you're looking for, you can try searching with `conda search search_term`. For example, I know I want to install Beautiful Soup, but I'm not sure of the exact package name. So, I try `conda search beautifulsoup`.
+If you don't know the exact name of the package you're looking for, you can try searching with `conda search search_term`. 
+For example, I know I want to install Beautiful Soup, but I'm not sure of the exact package name. So, I try 
+`conda search beautifulsoup`.
 
 It returns a list of the Beautiful Soup packages available with the appropriate package name, beautifulsoup4.
 

@@ -10,8 +10,8 @@ along with some guidance for using the [NumPy](http://www.numpy.org/) library to
 
 ## 2. Data Dimensions
 
-![part2-1](readme/1%20-%20Data%20Has%20Dimensions.mp4)
-
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F5.Matrix-Math-and-NumPy-Refresher%2Freadme&filename=1%20-%20Data%20Has%20Dimensions.mp4&fid=0MZqBkd&open=normal)
+ 
 ## 3. Data in NumPy
 
 Python is convenient, but it can also be slow. However, it does allow you to access libraries that execute faster code 
@@ -163,8 +163,8 @@ associated axis. It may look strange to you now, but it's a common technique so 
 
 ## 4. Element-wise Matrix Operations
 
-![part4-1](readme/2%20-%20Element-wise%20Matrix%20Operations.mp4)
-
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F5.Matrix-Math-and-NumPy-Refresher%2Freadme&filename=2%20-%20Element-wise%20Matrix%20Operations.mp4&fid=0MZqBkd&open=normal)
+ 
 ## 5. Element-wise Operations in NumPy
 
 ### The Python way
@@ -286,14 +286,14 @@ that the two shapes are different so we can't perform the element-wise operation
 
 ## 6. Matrix Multiplication: Part 1
 
-![Video](readme/3 - Matrix Multiplication: Part 1.mp4)
-
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F5.Matrix-Math-and-NumPy-Refresher%2Freadme&filename=3%20-%20Matrix%20Multiplication%3A%20Part%201.mp4&fid=0MZqBkd&open=normal)
+ 
 Some more information about [dot products](https://en.wikipedia.org/wiki/Dot_product)
 
 ## 7. Matrix Multiplication: Part 2
 
-![Video](readme/4 - Matrix Multiplication: Part 2.mp4)
-
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F5.Matrix-Math-and-NumPy-Refresher%2Freadme&filename=4%20-%20Matrix%20Multiplication%3A%20Part%202.mp4&fid=0MZqBkd&open=normal)
+ 
 ### Important Reminders About Matrix Multiplication
 
  * The **number** of **columns** in the **left** matrix **must equal** the **number** of **rows** in the **right** matrix.
@@ -416,8 +416,8 @@ in the `matmul` and `dot` documentation.
 
 ## 9.Matrix Transposes
 
-![Video](readme/5%20-%20Matrix%20Transposes.mp4)
-
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F5.Matrix-Math-and-NumPy-Refresher%2Freadme&filename=5%20-%20Matrix%20Transposes.mp4&fid=0MZqBkd&open=normal)
+ 
 ## 10. Transposes in NumPy
 
 Getting the transpose of a matrix is really easy in NumPy. Simply access its T attribute. There is also a `transpose()` 

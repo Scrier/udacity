@@ -2,8 +2,8 @@
 
 ## 1.What are Jupyter notebooks?
 
-![Video](readme/1%20-%20Jupyter.mp4)
-
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F1.Introduction%2F4.Jupyter-Notebooks%2Freadme&filename=1%20-%20Jupyter.mp4&fid=0MZqBkd&open=normal)
+ 
 Welcome to this lesson on using [Jupyter](http://jupyter.org/) notebooks. The notebook is a web application that allows 
 you to combine explanatory text, math equations, code, and visualizations all in one easily sharable document. For 
 example, here's one of my favorite notebooks shared recently, the analysis of [gravitational waves from two colliding 

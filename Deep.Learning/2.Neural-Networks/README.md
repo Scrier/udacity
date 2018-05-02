@@ -2,7 +2,7 @@
 
 [1. Introduction to Neural Networks](1.Introduction-to-Neural-Networks/README.md)
 
-[2. Implementing Gradient Scale](2.Implementing-Gradient-Scale/README.md)
+[2. Implementing Gradient Descent](2.Implementing-Gradient-Scale/README.md)
 
 [3. Training Neural Networks](3.Training-Neural-Networks/README.md)
 

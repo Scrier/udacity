@@ -4,60 +4,66 @@
 
 ## 1. Training Optimization
 
-[![Training Optimization](https://img.youtube.com/vi/UiGKhx9pUYc/0.jpg)](https://www.youtube.com/watch?v=UiGKhx9pUYc)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=1_-_Training_Optimization.mp4&fid=0MZqBkd&open=normal)
 
 ## 2. Testing
 
-[![Testing](https://img.youtube.com/vi/EeBZpb-PSac/0.jpg)](https://www.youtube.com/watch?v=EeBZpb-PSac)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=2_-_Testing.mp4&fid=0MZqBkd&open=normal)
 
 ## 3. Overfitting and Underfitting
 
-[![Overfitting and Underfitting](https://img.youtube.com/vi/xj4PlXMsN-Y/0.jpg)](https://www.youtube.com/watch?v=xj4PlXMsN-Y)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=3_-_Underfitting_And_Overfitting.mp4&fid=0MZqBkd&open=normal)
 
 ## 4. Early Stopping
 
-[![Early Stopping](https://img.youtube.com/vi/NnS0FJyVcDQ/0.jpg)](https://www.youtube.com/watch?v=NnS0FJyVcDQ)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=4_-_Model_Complexity_Graph.mp4&fid=0MZqBkd&open=normal)
 
 ## 5. Regularization
 
-[![Regularization](https://img.youtube.com/vi/KxROxcRsHL8/0.jpg)](https://www.youtube.com/watch?v=KxROxcRsHL8)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=5_-_DL_53_Q_Regularization.mp4&fid=0MZqBkd&open=normal)
 
 ## 6. Regularization 2
 
-[![Regularization 2](https://img.youtube.com/vi/ndYnUrx8xvs/0.jpg)](https://www.youtube.com/watch?v=ndYnUrx8xvs)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=6_-_Regularization.mp4&fid=0MZqBkd&open=normal)
+
+<object data="http://scrier.myqnapcloud.com:8080/share.cgi/part3-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=part3-6.pdf&openfolder=normal&ep=" type="application/pdf" width="700px" height="700px">
+    <embed src="http://scrier.myqnapcloud.com:8080/share.cgi/part3-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=part3-6.pdf&openfolder=normal&ep=">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://scrier.myqnapcloud.com:8080/share.cgi/part3-6.pdf?ssid=0MZqBkd&fid=0MZqBkd&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=part3-6.pdf&openfolder=normal&ep=">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## 7. Dropout
 
-[![Dropout](https://img.youtube.com/vi/Ty6K6YiGdBs/0.jpg)](https://www.youtube.com/watch?v=Ty6K6YiGdBs)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=7_-_Dropout.mp4&fid=0MZqBkd&open=normal)
 
 ## 8. Local Minima
 
-[![Local Minima](https://img.youtube.com/vi/gF_sW_nY-xw/0.jpg)](https://www.youtube.com/watch?v=gF_sW_nY-xw)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=8_-_Local_Minima.mp4&fid=0MZqBkd&open=normal)
 
 ## 9. Vanishing Gradient
 
-[![Vanishing Gradient](https://img.youtube.com/vi/W_JJm_5syFw/0.jpg)](https://www.youtube.com/watch?v=W_JJm_5syFw)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=9_-_Vanishing_Gradient.mp4&fid=0MZqBkd&open=normal)
 
 ## 10. Other Acivation Functions
 
-[![Other Acivation Functions](https://img.youtube.com/vi/kA-1vUt6cvQ/0.jpg)](https://www.youtube.com/watch?v=kA-1vUt6cvQ)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=10_-_Other_Activation_Functions.mp4&fid=0MZqBkd&open=normal)
 
 ## 11. Batch vs Stochastic Gradient Descent
 
-[![Batch vs Stochastic Gradient Descent](https://img.youtube.com/vi/2p58rVgqsgo/0.jpg)](https://www.youtube.com/watch?v=2p58rVgqsgo)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=11_-_Batch_vs_Stochastic_Gradient_Descent.mp4&fid=0MZqBkd&open=normal)
 
 ## 12. Learning Rate Decay
 
-[![Learning Rate Decay](https://img.youtube.com/vi/TwJ8aSZoh2U/0.jpg)](https://www.youtube.com/watch?v=TwJ8aSZoh2U)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=12_-_Learning_Rate.mp4&fid=0MZqBkd&open=normal)
 
 ## 13. Random Restart
 
-[![Random Restart](https://img.youtube.com/vi/idyBBCzXiqg/0.jpg)](https://www.youtube.com/watch?v=idyBBCzXiqg)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=13_-_Random_Restart.mp4&fid=0MZqBkd&open=normal)
 
 ## 14. Momentum
 
-[![Momentum](https://img.youtube.com/vi/r-rYz_PEWC8/0.jpg)](https://www.youtube.com/watch?v=r-rYz_PEWC8)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=14_-_Momentum.mp4&fid=0MZqBkd&open=normal)
 
 ## 15. Error Functions Around the World
 
-[![Error Functions Around the World](https://img.youtube.com/vi/34AAcTECu2A/0.jpg)](https://www.youtube.com/watch?v=34AAcTECu2A)
+[![Video](../../../images/video.jpg)](http://scrier.myqnapcloud.com:8080/share.cgi?ssid=0MZqBkd&ep=&path=%2FDeep.Learning%2F2.Neural-Networks%2F3.Training-Neural-Networks%2Freadme&filename=15_-_Error_Functions_Around_the_World.mp4&fid=0MZqBkd&open=normal)

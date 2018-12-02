@@ -19,3 +19,6 @@
 [submodule "Deep.Learning/3.Convulutional-Networks/8.Deep-Learning-for-Cancer-Detection/dermatologist-ai"]
 	path = Deep.Learning/3.Convulutional-Networks/8.Deep-Learning-for-Cancer-Detection/dermatologist-ai
 	url = https://github.com/udacity/dermatologist-ai
+[submodule "Deep.Learning/reinforcement-learning"]
+	path = Deep.Learning/reinforcement-learning
+	url = https://github.com/udacity/reinforcement-learning/
